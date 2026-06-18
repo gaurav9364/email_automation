@@ -1,0 +1,158 @@
+timestamp,company,email,role,status
+2026-06-18 20:29:48,CGI,ashok.s@cgi.com,Python AI Developer,sent
+2026-06-18 20:33:01,TrainingMug,careers@trainingmug.com,Python Django Developer,sent
+2026-06-18 20:33:49,Plexmato,hr@redkaizen.in,Python Developer,sent
+2026-06-18 20:34:37,Avishaan Technologies,hello@avishaantechnologies.com,Python Developer,sent
+2026-06-18 20:35:26,GlobalLogic,careers@globallogic.com,Python Developer,sent
+2026-06-18 20:36:14,CGI,ashok.s@cgi.com,Python AI Developer,sent
+2026-06-18 20:37:02,EXL,careers@exlservice.com,Python GenAI Developer,sent
+2026-06-18 20:37:51,Birlasoft,careers@birlasoft.com,Application Developer Python,sent
+2026-06-18 20:38:39,Destiny HR Group,career@destinyhrgroup.com,Python Developer,sent
+2026-06-18 20:39:28,BOL7,hr@bol7.com,Python Developer,sent
+2026-06-18 20:40:16,Techoaks IT,info@techoaks.in,Python Developer,sent
+2026-06-18 20:41:04,Startupcoe,team@startupcoe.com,Python Developer,sent
+2026-06-18 20:41:52,Lifease Solutions,admin@lifeasesolutions.com,Python Developer Intern,sent
+2026-06-18 20:42:41,Cyntexa,careers@cyntexa.com,Associate Software Developer,sent
+2026-06-18 20:43:29,Accuris,careers@accuris.com,Associate Software Engineer,sent
+2026-06-18 20:44:17,Concentrix,careers@concentrix.com,Python Developer,sent
+2026-06-18 20:45:06,Cisco,careers@cisco.com,Software Engineer Cloud DevOps,sent
+2026-06-18 20:45:53,HARMAN,careers@harman.com,Associate Engineer AI ML Python,sent
+2026-06-18 20:46:41,YASH Technologies,careers@yash.com,Trainee Python Developer,sent
+2026-06-18 20:47:29,KPMG,careers@kpmg.com,Executive Python Developer,sent
+2026-06-18 20:48:17,Infosys,ilp.support@infosys.com,Specialist Programmer,sent
+2026-06-18 21:31:50,Infosys,ilp.support@infosys.com,Specialist Programmer,sent
+2026-06-18 21:36:42,Capgemini,careers@capgemini.com,Software Developer,sent
+2026-06-18 21:38:02,Infosys,ilp.support@infosys.com,Specialist Programmer,sent
+2026-06-18 21:41:49,Infosys,ilp.support@infosys.com,Specialist Programmer,sent
+2026-06-18 21:42:39,TCS,recruitment.entrylevel@tcs.com,System Engineer,sent
+2026-06-18 21:43:27,Wipro,helpdesk.recruitment@wipro.com,Project Engineer,sent
+2026-06-18 21:44:16,HCL Tech,careers@hcl.com,Software Engineer,sent
+2026-06-18 21:45:04,Tech Mahindra,careers@techmahindra.com,Software Engineer,sent
+2026-06-18 21:45:52,Accenture,careers@accenture.com,Application Developer Associate,sent
+2026-06-18 21:46:40,Cognizant,careers@cognizant.com,Programmer Analyst Trainee,sent
+2026-06-18 21:47:28,Capgemini,careers@capgemini.com,Software Developer,sent
+2026-06-18 21:48:15,LTIMindtree,careers@ltimindtree.com,Software Engineer,sent
+2026-06-18 21:49:03,Mphasis,careers@mphasis.com,Software Developer,sent
+2026-06-18 21:51:33,Infosys,ilp.support@infosys.com,Specialist Programmer,sent
+2026-06-18 21:52:58,Mphasis,careers@mphasis.com,Software Developer,sent
+2026-06-18 21:53:47,Hexaware,careers@hexaware.com,Software Engineer,sent
+2026-06-18 21:54:35,Persistent Systems,careers@persistent.com,Python Developer,sent
+2026-06-18 21:55:23,Coforge,careers@coforge.com,Software Engineer,sent
+2026-06-18 21:56:11,Birlasoft,careers@birlasoft.com,Python Developer,sent
+2026-06-18 21:56:59,KPIT,careers@kpit.com,Software Engineer,sent
+2026-06-18 21:57:47,Zensar Technologies,careers@zensar.com,Python Developer,sent
+2026-06-18 21:58:34,DXC Technology,careers@dxc.com,Software Engineer,sent
+2026-06-18 21:59:22,CGI,ashok.s@cgi.com,Python AI Developer,sent
+2026-06-18 22:00:10,IBM,careers@ibm.com,Application Developer,sent
+2026-06-18 22:00:58,Deloitte,careers@deloitte.com,Business Technology Analyst,sent
+2026-06-18 22:01:45,PwC India,careers@pwc.com,Python Associate,sent
+2026-06-18 22:02:33,EY,careers@ey.com,Technology Consultant,sent
+2026-06-18 22:03:21,KPMG,careers@kpmg.com,Python Developer Executive,sent
+2026-06-18 22:04:09,Cisco,careers@cisco.com,Software Engineer,sent
+2026-06-18 22:04:56,Dell Technologies,careers@dell.com,Software Engineer,sent
+2026-06-18 22:05:44,HP,careers@hp.com,Software Engineer,sent
+2026-06-18 22:06:32,Lenovo,careers@lenovo.com,Associate Software Engineer AI,sent
+2026-06-18 22:07:20,Nokia,careers@nokia.com,Software Engineer,sent
+2026-06-18 22:08:08,HARMAN,careers@harman.com,Associate Engineer AI/ML,sent
+2026-06-18 22:08:55,YASH Technologies,careers@yash.com,Trainee Python,sent
+2026-06-18 22:09:43,NTT DATA,global.careers@nttdata.com,Python Developer,sent
+2026-06-18 22:10:31,Oracle,careers@oracle.com,Software Engineer,sent
+2026-06-18 22:11:19,SAP Labs,careers@sap.com,Software Developer,sent
+2026-06-18 22:12:06,VMware,careers@vmware.com,Software Engineer,sent
+2026-06-18 22:12:54,Microsoft,careers@microsoft.com,Software Engineer,sent
+2026-06-18 22:13:42,Amazon,careers@amazon.com,Software Engineer,sent
+2026-06-18 22:14:30,Google,careers@google.com,Software Engineer,sent
+2026-06-18 22:15:18,Qualcomm,careers@qualcomm.com,Software Engineer,sent
+2026-06-18 22:16:06,Samsung,careers@samsung.com,Software Engineer,sent
+2026-06-18 22:16:54,Intel,careers@intel.com,Software Engineer,sent
+2026-06-18 22:17:41,NVIDIA,careers@nvidia.com,Software Engineer,sent
+2026-06-18 22:18:29,Adobe,careers@adobe.com,Software Engineer,sent
+2026-06-18 22:19:17,Publicis Sapient,careers@publicissapient.com,Python Developer,sent
+2026-06-18 22:20:04,L&T Technology Services,careers@lnttechservices.com,Software Engineer,sent
+2026-06-18 22:20:52,Virtusa,careers@virtusa.com,Python Developer,sent
+2026-06-18 22:21:40,Atos,careers@atos.net,Software Engineer,sent
+2026-06-18 22:22:28,Sopra Steria,careers@soprasteria.com,Software Developer,sent
+2026-06-18 22:23:15,Cyient,careers@cyient.com,Software Engineer,sent
+2026-06-18 22:24:03,Happiest Minds,careers@happiestminds.com,Software Engineer,sent
+2026-06-18 22:24:50,Synechron,careers@synechron.com,Software Engineer,sent
+2026-06-18 22:25:38,UST Global,careers@ust.com,Python Developer,sent
+2026-06-18 22:26:26,Concentrix,careers@concentrix.com,Python Developer,sent
+2026-06-18 22:27:13,Thoughtworks,careers@thoughtworks.com,SDE Fresher,sent
+2026-06-18 22:28:01,Citi,careers@citi.com,Junior Python Developer,sent
+2026-06-18 22:28:48,Optum,careers@optum.com,Software Engineer,sent
+2026-06-18 22:29:37,NatWest Group,careers@natwest.com,Software Engineer,sent
+2026-06-18 22:30:24,Macquarie Group,careers@macquarie.com,Python Engineer,sent
+2026-06-18 22:31:12,Tower Research Capital,careers@tower-research.com,Python Developer,sent
+2026-06-18 22:32:03,Goldman Sachs,careers@gs.com,Software Engineer,sent
+2026-06-18 22:32:59,JPMorgan Chase,careers@jpmorgan.com,Software Engineer,sent
+2026-06-18 22:33:47,Morgan Stanley,careers@morganstanley.com,Software Developer,sent
+2026-06-18 22:34:34,Zomato,careers@zomato.com,SDE-1,sent
+2026-06-18 22:35:22,Swiggy,careers@swiggy.com,SDE-1,sent
+2026-06-18 22:36:09,Flipkart,careers@flipkart.com,SDE-1,sent
+2026-06-18 22:36:57,Razorpay,careers@razorpay.com,Software Engineer,sent
+2026-06-18 22:37:45,Groww,careers@groww.in,Software Engineer,sent
+2026-06-18 22:38:33,Zerodha,careers@zerodha.com,Software Engineer,sent
+2026-06-18 22:39:20,Nykaa,careers@nykaa.com,Software Engineer,sent
+2026-06-18 22:40:08,MakeMyTrip,careers@makemytrip.com,SDE,sent
+2026-06-18 22:40:55,OYO,careers@oyorooms.com,SDE,sent
+2026-06-18 22:41:43,Urban Company,careers@urbancompany.com,SDE,sent
+2026-06-18 22:42:31,ShareChat,careers@sharechat.com,SDE,sent
+2026-06-18 22:43:19,PolicyBazaar,careers@policybazaar.com,SDE,sent
+2026-06-18 22:44:06,PhonePe,careers@phonepe.com,Software Engineer,sent
+2026-06-18 22:44:54,CRED,careers@cred.club,SDE,sent
+2026-06-18 22:45:42,Zeta,careers@zeta.us,Software Engineer,sent
+2026-06-18 22:46:30,Freshworks,careers@freshworks.com,Software Engineer,sent
+2026-06-18 22:47:18,Chargebee,careers@chargebee.com,Software Engineer,sent
+2026-06-18 22:48:06,Zoho,careers@zoho.com,Software Developer,sent
+2026-06-18 22:48:53,Unacademy,careers@unacademy.com,SDE,sent
+2026-06-18 22:49:41,Navi,careers@navi.com,Software Engineer,sent
+2026-06-18 22:50:32,BharatPe,careers@bharatpe.com,SDE,sent
+2026-06-18 22:51:19,Lendingkart,careers@lendingkart.com,Software Engineer,sent
+2026-06-18 22:52:07,TrainingMug,careers@trainingmug.com,Python Django Backend Engineer,sent
+2026-06-18 22:52:55,Plexmato,hr@redkaizen.in,Python Developer,sent
+2026-06-18 22:53:41,Avishaan Technologies,hello@avishaantechnologies.com,Python Developer,failed
+2026-06-18 22:54:26,GlobalLogic,careers@globallogic.com,Python Developer,failed
+2026-06-18 22:55:11,EXL,careers@exlservice.com,GenAI Python Developer,failed
+2026-06-18 22:55:56,Destiny HR Group,career@destinyhrgroup.com,Python Django Developer,failed
+2026-06-18 22:56:41,BOL7,hr@bol7.com,Python Developer,failed
+2026-06-18 22:57:26,Techoaks IT,info@techoaks.in,Python Full Stack Developer,failed
+2026-06-18 22:58:11,Startupcoe,team@startupcoe.com,Python Developer,failed
+2026-06-18 22:58:56,Lifease Solutions,admin@lifeasesolutions.com,Python Developer Intern,failed
+2026-06-18 22:59:41,Cyntexa,careers@cyntexa.com,Associate Software Developer,failed
+2026-06-18 23:00:26,Accuris,careers@accuris.com,Associate Software Engineer,failed
+2026-06-18 23:01:11,Bombay Shaving Company,careers@bombayshavingcompany.com,Python Developer,failed
+2026-06-18 23:01:56,Infrrd,careers@infrrd.com,Python Developer GenAI,failed
+2026-06-18 23:02:41,Impressico,training@impressico.com,Trainee Engineer Python,failed
+2026-06-18 23:03:26,NeoGenCode Technologies,careers@neogencode.com,Python Django Developer,failed
+2026-06-18 23:04:11,CollabMates,careers@collabmates.com,Python Django Backend Developer,failed
+2026-06-18 23:04:56,Heizen,hiring@heizen.work,Associate Software Engineer,failed
+2026-06-18 23:05:41,Swan Softweb,career@swansoftweb.com,Python Developer,failed
+2026-06-18 23:06:26,Aaptatt,office@aaptatt.com,Python Developer,failed
+2026-06-18 23:07:11,Associative,info@associative.in,Python Developer Fresher,failed
+2026-06-18 23:07:56,E2logy,careers@e2logy.com,Python Developer,failed
+2026-06-18 23:08:41,Addnectar Solutions,careers@addnectar.com,Junior Software Developer,failed
+2026-06-18 23:09:26,ECI,careers@eci.com,Python Developer,failed
+2026-06-18 23:10:11,Rockwell Automation,careers@rockwellautomation.com,Graduate Engineer Trainee,failed
+2026-06-18 23:10:56,Honeywell,careers@honeywell.com,Software Engineer,failed
+2026-06-18 23:11:41,Honeywell,careers@honeywell.com,Software Intern Python,failed
+2026-06-18 23:12:26,Siemens,careers@siemens.com,Software Engineer,failed
+2026-06-18 23:13:11,Schneider Electric,careers@se.com,Software Engineer,failed
+2026-06-18 23:13:56,ABB,careers@abb.com,Software Engineer,failed
+2026-06-18 23:14:41,Baker Hughes,careers@bakerhughes.com,Software Engineer,failed
+2026-06-18 23:15:26,GE Healthcare,careers@gehealthcare.com,Software Engineer,failed
+2026-06-18 23:16:11,Philips,careers@philips.com,Software Developer,failed
+2026-06-18 23:16:56,Bosch,careers@bosch.com,Software Engineer,failed
+2026-06-18 23:17:41,Continental,careers@continental.com,Software Engineer,failed
+2026-06-18 23:18:26,TravClan,careers@travclan.com,SDE-1 Backend,failed
+2026-06-18 23:19:11,Finominal,careers@finominal.com,Junior Backend Engineer,failed
+2026-06-18 23:19:56,Postman,careers@postman.com,Software Engineer,failed
+2026-06-18 23:20:41,Red Hat,careers@redhat.com,Software Engineer,failed
+2026-06-18 23:21:26,MongoDB,careers@mongodb.com,Software Engineer,failed
+2026-06-18 23:22:11,Elastic,careers@elastic.co,Software Engineer,failed
+2026-06-18 23:22:56,Twilio,careers@twilio.com,Software Engineer,failed
+2026-06-18 23:23:41,Snowflake,careers@snowflake.com,Software Engineer,failed
+2026-06-18 23:24:26,Databricks,careers@databricks.com,Software Engineer,failed
+2026-06-18 23:25:11,ServiceNow,careers@servicenow.com,Software Engineer,failed
+2026-06-18 23:25:56,Salesforce,careers@salesforce.com,Software Engineer,failed
+2026-06-18 23:26:41,Workday,careers@workday.com,Software Engineer,failed
+2026-06-18 23:27:26,Atlassian,careers@atlassian.com,Software Engineer,failed

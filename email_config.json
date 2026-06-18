@@ -1,0 +1,41 @@
+{
+  "_warning": "Never share this file or commit it to git. It contains your email credentials.",
+
+  "smtp": {
+    "server": "smtp.gmail.com",
+    "port": 587,
+    "use_tls": true,
+    "email": "gauravyadav4664@gmail.com",
+    "password": "YOUR_APP_PASSWORD_HERE"
+  },
+
+  "sender": {
+    "name": "Gaurav Yadav",
+    "phone": "+91 9211750228",
+    "email": "gauravyadav4664@gmail.com",
+    "degree": "B.Tech in Information Technology",
+    "college": "NIET Greater Noida",
+    "passout_year": "2025",
+    "skills": "Python, Django, Django REST Framework, HTML, CSS, JavaScript, SQL, Git, NumPy, Pandas, Matplotlib, Seaborn",
+    "resume_link": "https://drive.google.com/your-resume-link",
+    "linkedin": "https://linkedin.com/in/gaurav-yadav-1b5aa3229"
+  },
+
+  "settings": {
+    "delay_seconds": 45,
+    "sent_log_file": "sent_log.csv",
+    "csv_delimiter": ",",
+    "resume_file": "C:\\Users\\Ujjwal Yadav\\Desktop\\Resume\\Gaurav Yadav Python.pdf",
+    "companies_dir": "Companies"
+  },
+
+  "templates": {
+    "subject": "Application for {job_role} at {company_name} - Gaurav Yadav (2025 B.Tech IT)",
+
+    "body_html": "<html><body style=\"font-family: Arial, sans-serif; color: #333; line-height: 1.6; max-width: 600px; margin: 0 auto;\">\n<p>Dear {hr_name},</p>\n\n<p>I am applying for the <b>{job_role}</b> position at <b>{company_name}</b>. I recently completed my B.Tech in Information Technology from NIET Greater Noida (2025 batch) and have hands-on experience building applications with Python and Django.</p>\n\n<p>Here is a summary of my background:</p>\n\n<p>\u2022 <b>Internship at Raphe Mphibr</b> - Worked on ROS2 and AirSim for autonomous vehicle software research<br>\n\u2022 <b>Internship at Ethara AI</b> - Focused on LLM evaluation, prompt engineering, and RLHF<br>\n\u2022 <b>Projects</b> - Built FlowSync (Django, DRF, MySQL) and a Donation/Volunteer Management System<br>\n\u2022 <b>Technical Skills</b> - Python, Django, DRF, SQL, JavaScript, Git, NumPy, Pandas</p>\n\n<p>I am particularly interested in {company_name} because of the work you are doing in this space, and I believe my skills and experience align well with the requirements of the {job_role} role. I am eager to contribute to your team and grow as a professional in a challenging environment.</p>\n\n<p>I have attached my resume for your reference. I would appreciate the opportunity to discuss how my background matches what you are looking for at {company_name}. I am available for an interview at your convenience.</p>\n\n<p>Thank you for your time and consideration.</p>\n\n<p>Best regards,<br>\n<b>Gaurav Yadav</b><br>\n{sender_phone}<br>\n{sender_email}<br>\n{sender_linkedin}</p>\n</body></html>",
+
+    "body_text": "Dear {hr_name},\n\nI am applying for the {job_role} position at {company_name}. I recently completed my B.Tech in Information Technology from NIET Greater Noida (2025 batch) and have hands-on experience building applications with Python and Django.\n\nHere is a summary of my background:\n\n- Internship at Raphe Mphibr - Worked on ROS2 and AirSim for autonomous vehicle software research\n- Internship at Ethara AI - Focused on LLM evaluation, prompt engineering, and RLHF\n- Projects - Built FlowSync (Django, DRF, MySQL) and a Donation/Volunteer Management System\n- Technical Skills - Python, Django, DRF, SQL, JavaScript, Git, NumPy, Pandas\n\nI am particularly interested in {company_name} because of the work you are doing in this space, and I believe my skills and experience align well with the requirements of the {job_role} role. I am eager to contribute to your team and grow as a professional in a challenging environment.\n\nI have attached my resume for your reference. I would appreciate the opportunity to discuss how my background matches what you are looking for at {company_name}. I am available for an interview at your convenience.\n\nThank you for your time and consideration.\n\nBest regards,\nGaurav Yadav\n{sender_phone}\n{sender_email}\n{sender_linkedin}",
+
+    "fallback_subject": "Application for {job_role} - Gaurav Yadav"
+  }
+}
