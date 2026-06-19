@@ -450,13 +450,26 @@ Examples:
             print("Cancelled.")
             return
 
-    # Connect
+    # --- SMTP connection (renews periodically) ---
+    RECONNECT_EVERY = 25  # fresh connection every N sends to avoid Gmail timeout
     smtp = connect_smtp(cfg, password)
-
-    # Send loop
     sent_count = 0
     fail_count = 0
     start_time = time.time()
+    last_reconnect_count = 0
+
+    def ensure_smtp():
+        """Return a fresh SMTP connection if we have hit the reconnect threshold."""
+        nonlocal smtp, last_reconnect_count
+        sends_on_this_conn = sent_count + fail_count - last_reconnect_count
+        if sends_on_this_conn >= RECONNECT_EVERY:
+            try:
+                smtp.quit()
+            except Exception:
+                pass
+            smtp = connect_smtp(cfg, password)
+            last_reconnect_count = sent_count + fail_count
+            log.info("Reconnected SMTP (fresh connection for next batch).")
 
     try:
         for i, company in enumerate(recipients):
@@ -469,7 +482,19 @@ Examples:
 
             log.info("  [%d/%d] \u2192 %s (%s)", i + 1, total, company["company_name"], company["hr_email"])
 
+            ensure_smtp()
             success = send_one(smtp, msg, company, cfg)
+
+            # If send failed, try one reconnect + retry
+            if not success:
+                log.info("  Trying reconnection and one more attempt ...")
+                try:
+                    smtp.quit()
+                except Exception:
+                    pass
+                smtp = connect_smtp(cfg, password)
+                last_reconnect_count = sent_count + fail_count
+                success = send_one(smtp, msg, company, cfg)
 
             if success:
                 append_sent_log(sent_log_path, company["company_name"], company["hr_email"], vars["job_role"], "sent")
@@ -489,7 +514,10 @@ Examples:
         log.warning("\nInterrupted by user.")
 
     finally:
-        smtp.quit()
+        try:
+            smtp.quit()
+        except Exception:
+            pass
 
     # Summary
     elapsed = time.time() - start_time

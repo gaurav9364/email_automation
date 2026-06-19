@@ -1,0 +1,88 @@
+company_name,hr_email,hr_name,job_role,apply_link
+Infosys,Infy_REC_Helpdesk@infosys.com,Infosys Recruitment,Specialist Programmer US,https://careers.infosys.com
+TCS,careers.research@tcs.com,TCS Research Recruitment,System Engineer US,https://www.tcs.com/careers
+Cognizant,careers@cognizant.com,Cognizant TA Team,Programmer Analyst US,https://careers.cognizant.com/us-en
+Wipro,helpdesk.recruitment@wipro.com,Wipro Recruitment,Project Engineer US,https://careers.wipro.com
+HCL Tech,careers@hcltech.com,HCL Careers,Software Engineer US,https://www.hcltech.com/careers
+Tech Mahindra,careers@techmahindra.com,TechM Recruitment,Software Engineer US,https://careers.techmahindra.com
+Accenture,careers@accenture.com,Accenture Careers,App Dev Associate US,https://www.accenture.com/us-en/careers
+Deloitte,careers@deloitte.com,Deloitte TA,Business Tech Analyst US,https://www.deloitte.com/careers
+IBM,careers@ibm.com,IBM Careers,Entry Level Developer US,https://www.ibm.com/careers
+CGI,careers@cgi.com,CGI Recruitment,Python Developer US,https://www.cgi.com/en/careers
+BeaconFire Inc.,info@beaconfireinc.com,BeaconFire HR,Agentic AI Developer Python,https://beaconfireinc.com/careers
+Nexa IT Resources,dsara@nexaitresources.com,Sara Das,Python Developer Federal,https://nexaitresources.com
+SynergisticIT,careers@synergisticit.com,SynergisticIT Team,Python Developer US,https://www.synergisticit.com
+Cybotrix Technologies,contact@cybotrix.com,Cybotrix Recruitment,Python Developer Seattle,https://cybotrix.com
+ICF,careers@icf.com,ICF TA,Associate Software Engineer US,https://www.icf.com/careers
+Aivra Health LLC,careers@aivrahealth.com,Aivra Health HR,Junior Python Developer US,https://www.dice.com
+Tech Consulting,careers@techconsulting.com,Tech Consulting TA,Junior AI/ML Python Developer Atlanta,https://jaabz.com
+Veracity Software Inc,careers@veracityinc.com,Veracity HR,Python Developer NJ,https://www.optnation.com
+CodeVista Solutions,careers@codevista.com,CodeVista HR,Junior Python Developer Remote US,https://jaabz.com
+Google,apply@google.com,Google Careers,Software Engineer US,https://careers.google.com
+Amazon,hiring@amazon.com,Amazon University Hire,SDE US,https://amazon.jobs
+Microsoft,careers@microsoft.com,Microsoft Careers,Software Engineer US,https://careers.microsoft.com
+Meta,careers@meta.com,Meta Careers,Software Engineer US,https://www.metacareers.com
+Apple,careers@apple.com,Apple Careers,Software Engineer US,https://apple.com/careers
+NVIDIA,careers@nvidia.com,NVIDIA Careers,Software Engineer US,https://nvidia.com/careers
+JPMorgan Chase,careers@jpmorgan.com,JPMC Recruitment,Software Engineer US,https://careers.jpmorgan.com
+Goldman Sachs,careers@gs.com,Goldman Sachs Careers,Software Engineer US,https://www.goldmansachs.com/careers
+Morgan Stanley,careers@morganstanley.com,MS Careers,Software Engineer US,https://www.morganstanley.com/careers
+Capital One,careers@capitalone.com,Capital One Recruitment,Software Engineer US,https://www.capitalone.com/careers
+Cisco,careers@cisco.com,Cisco Careers,Software Engineer US,https://www.cisco.com/careers
+Oracle,careers@oracle.com,Oracle Careers,Software Engineer US,https://www.oracle.com/careers
+Salesforce,careers@salesforce.com,SFDC Careers,Software Engineer US,https://www.salesforce.com/company/careers
+Adobe,careers@adobe.com,Adobe Careers,Software Engineer US,https://www.adobe.com/careers
+Uber,careers@uber.com,Uber Careers,Software Engineer US,https://www.uber.com/careers
+LinkedIn,careers@linkedin.com,LinkedIn Careers,Software Engineer US,https://careers.linkedin.com
+PayPal,careers@paypal.com,PayPal Careers,Software Engineer US,https://www.paypal.com/careers
+Atlassian,careers@atlassian.com,Atlassian Careers,Software Engineer US,https://www.atlassian.com/company/careers
+HubSpot,careers@hubspot.com,HubSpot Careers,Software Engineer US,https://www.hubspot.com/careers
+Cloudflare,careers@cloudflare.com,Cloudflare Careers,Software Engineer US,https://www.cloudflare.com/careers
+Workday,careers@workday.com,Workday Careers,Software Engineer US,https://www.workday.com/careers
+ServiceNow,careers@servicenow.com,ServiceNow Careers,Software Engineer US,https://www.servicenow.com/careers
+Snowflake,careers@snowflake.com,Snowflake Careers,Software Engineer US,https://www.snowflake.com/careers
+Datadog,careers@datadoghq.com,Datadog Careers,Software Engineer US,https://www.datadoghq.com/careers
+Twilio,careers@twilio.com,Twilio Careers,Software Engineer US,https://www.twilio.com/careers
+Stripe,careers@stripe.com,Stripe Careers,Software Engineer US,https://stripe.com/jobs
+Shopify,careers@shopify.com,Shopify Careers,Software Engineer US,https://www.shopify.com/careers
+Spotify,careers@spotify.com,Spotify Careers,Software Engineer US,https://www.lifeatspotify.com
+Dell,careers@dell.com,Dell Careers,Software Engineer US,https://www.dell.com/careers
+HP,careers@hp.com,HP Careers,Software Engineer US,https://www.hp.com/careers
+Intel,careers@intel.com,Intel Careers,Software Engineer US,https://www.intel.com/careers
+Qualcomm,careers@qualcomm.com,Qualcomm Careers,Software Engineer US,https://www.qualcomm.com/careers
+SAP,careers@sap.com,SAP Careers,Software Engineer US,https://www.sap.com/careers
+Visa,careers@visa.com,Visa Careers,Software Engineer US,https://www.visa.com/careers
+Mastercard,careers@mastercard.com,Mastercard Careers,Software Engineer US,https://www.mastercard.com/careers
+American Express,careers@americanexpress.com,Amex Careers,Software Engineer US,https://www.americanexpress.com/careers
+Fidelity,careers@fidelity.com,Fidelity Careers,Software Engineer US,https://www.fidelity.com/careers
+UnitedHealth Group,careers@uhg.com,UHG Careers,Software Engineer US,https://www.uhg.com/careers
+Pfizer,careers@pfizer.com,Pfizer Careers,Software Engineer US,https://www.pfizer.com/careers
+Boeing,careers@boeing.com,Boeing Careers,Software Engineer US,https://www.boeing.com/careers
+Honeywell,careers@honeywell.com,Honeywell Careers,Software Engineer US,https://www.honeywell.com/careers
+Tesla,careers@tesla.com,Tesla Careers,Software Engineer US,https://www.tesla.com/careers
+Walmart,careers@walmart.com,Walmart Careers,Software Engineer US,https://careers.walmart.com
+Target,careers@target.com,Target Careers,Software Engineer US,https://www.target.com/careers
+Nike,careers@nike.com,Nike Careers,Software Engineer US,https://www.nike.com/careers
+Procter & Gamble,careers@pg.com,P&G Careers,Software Engineer US,https://www.pg.com/careers
+PepsiCo,careers@pepsico.com,PepsiCo Careers,Software Engineer US,https://www.pepsico.com/careers
+Coinbase,careers@coinbase.com,Coinbase Careers,Software Engineer US,https://www.coinbase.com/careers
+Robinhood,careers@robinhood.com,Robinhood Careers,Software Engineer US,https://robinhood.com/careers
+eBay,careers@ebay.com,eBay Careers,Software Engineer US,https://www.ebay.com/careers
+Zillow,careers@zillow.com,Zillow Careers,Software Engineer US,https://www.zillow.com/careers
+Dropbox,careers@dropbox.com,Dropbox Careers,Software Engineer US,https://www.dropbox.com/careers
+Snap Inc,careers@snap.com,Snap Careers,Software Engineer US,https://www.snap.com/careers
+Wells Fargo,careers@wellsfargo.com,Wells Fargo Careers,Software Engineer US,https://www.wellsfargo.com/careers
+Bank of America,careers@bankofamerica.com,BofA Careers,Software Engineer US,https://careers.bankofamerica.com
+EPAM,careers@epam.com,EPAM Careers,Jr Software Engineer US,https://www.epam.com/careers
+MongoDB,careers@mongodb.com,MongoDB Careers,Software Engineer US,https://www.mongodb.com/careers
+Elastic,careers@elastic.co,Elastic Careers,Software Engineer US,https://www.elastic.co/careers
+GE,careers@ge.com,GE Careers,Software Engineer US,https://www.ge.com/careers
+Siemens,careers@siemens.com,Siemens Careers,Software Engineer US,https://www.siemens.com/careers
+SoFi,careers@sofi.com,SoFi Careers,Software Engineer US,https://www.sofi.com/careers
+Globant,careers@globant.com,Globant Careers,Software Engineer US,https://www.globant.com/careers
+Palo Alto Networks,careers@paloaltonetworks.com,PAN Careers,Software Engineer US,https://www.paloaltonetworks.com/careers
+CrowdStrike,careers@crowdstrike.com,CrowdStrike Careers,Software Engineer US,https://www.crowdstrike.com/careers
+Splunk,careers@splunk.com,Splunk Careers,Software Engineer US,https://www.splunk.com/careers
+Siemens,careers@siemens.com,Siemens Careers,Software Engineer US,https://www.siemens.com/careers
+Cigna,careers@cigna.com,Cigna Careers,Software Engineer US,https://www.cigna.com/careers
+3M,careers@3m.com,3M Careers,Software Engineer US,https://www.3m.com/careers
