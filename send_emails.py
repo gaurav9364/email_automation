@@ -32,6 +32,13 @@ from email import encoders
 from getpass import getpass
 from pathlib import Path
 
+try:
+    import boto3
+    from botocore.exceptions import ClientError, BotoCoreError
+    SES_AVAILABLE = True
+except ImportError:
+    SES_AVAILABLE = False
+
 # ---------------------------------------------------------------------------
 # Setup
 # ---------------------------------------------------------------------------
@@ -95,6 +102,7 @@ def build_vars(company: dict, cfg: dict) -> dict:
         "passout_year": sender.get("passout_year", ""),
         "skills": sender.get("skills", ""),
         "resume_link": sender.get("resume_link", ""),
+        "sender_portfolio": sender.get("portfolio", ""),
         "sender_email": sender.get("email", ""),
         "sender_phone": sender.get("phone", ""),
         "sender_linkedin": sender.get("linkedin", ""),
@@ -168,37 +176,55 @@ def list_available_lists() -> list:
     ])
 
 
-def load_recipients(path: Path, delimiter: str = ",") -> list[dict]:
+def load_recipients(path: Path, delimiter: str = ",") -> tuple[list[dict], list[dict]]:
+    """Load CSV and return (with_email, without_email) buckets.
+
+    Companies that have a non-empty ``hr_email`` go into the first list
+    (ready to send).  Companies that only have a careers-page link or
+    no email at all go into the second list (manual apply).
+    """
     if not path.exists():
         log.error("Company list not found: %s", path)
         sys.exit(1)
 
-    rows = []
+    with_email = []
+    without_email = []
     with open(path, "r", encoding="utf-8-sig") as f:
         reader = csv.DictReader(f, delimiter=delimiter)
-        required = {"company_name", "hr_email"}
+        required = {"company_name"}
         if reader.fieldnames is None or not required.issubset(reader.fieldnames):
-            log.error("CSV must have at least columns: company_name, hr_email")
+            log.error("CSV must have at least a 'company_name' column.")
             log.error("Got columns: %s", reader.fieldnames)
             sys.exit(1)
+        has_email_col = "hr_email" in reader.fieldnames
         for row in reader:
             company = row.get("company_name", "").strip()
-            email = row.get("hr_email", "").strip()
-            if not company or not email:
+            if not company:
                 continue
-            rows.append({
+            email = row.get("hr_email", "").strip() if has_email_col else ""
+            entry = {
                 "company_name": company,
                 "hr_email": email,
                 "hr_name": row.get("hr_name", "Hiring Team").strip() or "Hiring Team",
                 "job_role": row.get("job_role", "Python/Django Developer").strip() or "Python/Django Developer",
                 "apply_link": row.get("apply_link", "").strip(),
-            })
+                "notes": row.get("notes", "").strip(),
+            }
+            if email:
+                with_email.append(entry)
+            else:
+                without_email.append(entry)
 
-    if not rows:
-        log.error("No valid recipients found in CSV.")
+    total = len(with_email) + len(without_email)
+    if total == 0:
+        log.error("No valid entries found in CSV.")
         sys.exit(1)
 
-    return rows
+    if without_email:
+        log.info("Loaded %d companies total — %d with email, %d without (printed separately).",
+                 total, len(with_email), len(without_email))
+
+    return with_email, without_email
 
 
 # ---------------------------------------------------------------------------
@@ -289,21 +315,25 @@ def preview_email(company: dict, cfg: dict):
 # Send single email
 # ---------------------------------------------------------------------------
 
-def send_one(smtp: smtplib.SMTP, msg: MIMEMultipart, company: dict, cfg: dict) -> bool:
+def send_one(smtp: smtplib.SMTP, msg: MIMEMultipart, company: dict, cfg: dict) -> tuple[bool, str | None]:
     try:
         smtp.send_message(msg)
-        return True
+        return True, None
     except smtplib.SMTPRecipientsRefused as e:
         log.error("  \u2717 Recipient refused for %s (%s): %s", company["company_name"], company["hr_email"], e)
+        return False, str(e)
     except smtplib.SMTPSenderRefused as e:
         log.error("  \u2717 Sender refused: %s", e)
+        return False, str(e)
     except smtplib.SMTPDataError as e:
         log.error("  \u2717 SMTP data error: %s", e)
+        return False, str(e)
     except smtplib.SMTPException as e:
         log.error("  \u2717 SMTP error for %s: %s", company["company_name"], e)
+        return False, str(e)
     except Exception as e:
         log.error("  \u2717 Unexpected error for %s: %s", company["company_name"], e)
-    return False
+        return False, str(e)
 
 
 # ---------------------------------------------------------------------------
@@ -388,8 +418,32 @@ Examples:
                     log.error("Place CSV files in the Companies/ folder, or provide --csv path.")
                     sys.exit(1)
 
-    # Load recipients
-    recipients = load_recipients(csv_path, cfg.get("settings", {}).get("csv_delimiter", ","))
+    # Load recipients — split into with-email and without-email buckets
+    recipients_auto, manual_list = load_recipients(
+        csv_path, cfg.get("settings", {}).get("csv_delimiter", ",")
+    )
+
+    # Notify about manual-apply companies
+    if manual_list:
+        safe = "\n" + "=" * 70 + "\n"
+        safe += f"  COMPANIES REQUIRING MANUAL APPLICATION ({len(manual_list)} total)\n"
+        safe += f"  These have no direct HR email - apply via careers page or LinkedIn\n"
+        safe += "=" * 70 + "\n"
+        for i, co in enumerate(manual_list, 1):
+            link = co.get("apply_link") or ""
+            notes = co.get("notes") or ""
+            safe += f"  {i:3d}. {co['company_name']}\n"
+            if link:
+                safe += f"       Apply: {link}\n"
+            if notes:
+                # Strip or replace non-cp1252 characters for Windows console
+                clean = notes.encode("cp1252", errors="replace").decode("cp1252")
+                safe += f"       Notes: {clean}\n"
+            safe += "\n"
+        safe += "=" * 70 + "\n"
+        print(safe)
+
+    recipients = recipients_auto  # only auto-send to companies with direct emails
 
     # Filter by company if specified
     if args.company:
@@ -416,7 +470,7 @@ Examples:
 
     # Settings
     settings = cfg.get("settings", {})
-    delay = args.delay if args.delay is not None else settings.get("delay_seconds", 45)
+    delay = args.delay if args.delay is not None else settings.get("delay_seconds", 5)
     max_emails = args.max_emails if args.max_emails is not None else settings.get("max_emails_per_session", 999999)
 
     # Preview / Dry-run
@@ -483,9 +537,14 @@ Examples:
             log.info("  [%d/%d] \u2192 %s (%s)", i + 1, total, company["company_name"], company["hr_email"])
 
             ensure_smtp()
-            success = send_one(smtp, msg, company, cfg)
+            success, error = send_one(smtp, msg, company, cfg)
 
-            # If send failed, try one reconnect + retry
+            # If send failed, check for Gmail daily limit — no point retrying
+            if not success and "Daily limit exceeded" in error:
+                log.warning("  Gmail daily limit reached. Stopping. Resume tomorrow with --resume.")
+                break
+
+            # If send failed (and not daily limit), try one reconnect + retry
             if not success:
                 log.info("  Trying reconnection and one more attempt ...")
                 try:
@@ -494,7 +553,7 @@ Examples:
                     pass
                 smtp = connect_smtp(cfg, password)
                 last_reconnect_count = sent_count + fail_count
-                success = send_one(smtp, msg, company, cfg)
+                success, error = send_one(smtp, msg, company, cfg)
 
             if success:
                 append_sent_log(sent_log_path, company["company_name"], company["hr_email"], vars["job_role"], "sent")
