@@ -268,3 +268,752 @@ timestamp,company,email,role,status
 2026-06-19 11:26:01,Jivi AI,careers@jivi.ai,Python Developer AI,sent
 2026-06-19 11:26:48,Healofy,careers@healofy.com,Python Django Developer,sent
 2026-06-19 11:27:37,Startupcoe,team@startupcoe.com,Python Developer Fresher,sent
+2026-06-19 11:51:24,DotPe,akshay@dotpe.in,Python/Node SDE,sent
+2026-06-19 11:52:12,Com Olho,abhinav@comolho.com,Python/Django/React SDE,sent
+2026-06-19 11:55:29,Infosys,Infy_REC_Helpdesk@infosys.com,Specialist Programmer US,sent
+2026-06-19 11:56:17,TCS,careers.research@tcs.com,System Engineer US,sent
+2026-06-19 11:57:03,DotPe,akshay@dotpe.in,Python/Node SDE,sent
+2026-06-19 11:57:51,Com Olho,abhinav@comolho.com,Python/Django/React SDE,sent
+2026-06-19 11:58:39,Aaptatt,office@aaptatt.com,Python Developer Fresher,sent
+2026-06-19 11:59:26,Destiny HR Group,career@destinyhrgroup.com,Python Django Developer Fresher,sent
+2026-06-19 12:00:14,Oodles Technologies,hr@oodles.io,Python Developer 0-1 yr,sent
+2026-06-19 12:01:02,BlissClub,hr@blissclub.com,Python Developer Django,sent
+2026-06-19 12:01:49,Innovaccer,team@innovaccer.com,Software Engineer Python,sent
+2026-06-19 12:02:37,Cashify,info@cashify.in,Software Engineer Python,sent
+2026-06-19 12:03:24,Spyne,contact@spyne.ai,SDE Backend Python,sent
+2026-06-21 04:28:40,Wyreflow Technologies,internship@wyreflow.com,Django Developer Intern,sent
+2026-06-21 04:29:28,Futops Technologies,biz@futopstech.com,Python + AWS Trainee (Fresher),sent
+2026-06-21 04:30:15,Saawahi IT Solution LLP,hiring@saawahiitsolution.com,Frontend Developer,sent
+2026-06-21 04:31:03,Associative,info@associative.in,Django Developer (Fresher),sent
+2026-06-21 04:31:50,Inspiron Labs,recruitment@inspironlabs.com,Frontend Engineer (Trained Fresher),sent
+2026-06-21 04:32:37,Makunai Global,careers@makunaiglobal.ai,Python Developer (Django & FastAPI),sent
+2026-06-21 04:33:25,InternshipTech,resume@internshiptech.com,Junior Python Developer Intern,sent
+2026-06-21 04:34:13,Com Olho,abhinav@comolho.com,Python/Django Developer (Fresher),sent
+2026-06-21 04:35:01,Aaptatt,office@aaptatt.com,Software Developer,sent
+2026-06-21 04:35:48,DotPe,akshay@dotpe.in,Python Developer,sent
+2026-06-21 04:36:36,Destiny HR Group,career@destinyhrgroup.com,IT Recruiter/Developer,sent
+2026-06-21 04:37:24,Oodles Technologies,hr@oodles.io,Python/Django Developer,sent
+2026-06-21 04:38:12,Innovaccer,team@innovaccer.com,Python Developer,sent
+2026-06-21 04:39:00,Spyne,contact@spyne.ai,Python Developer,sent
+2026-06-21 04:39:48,BlissClub,hr@blissclub.com,Python Developer,sent
+2026-06-21 04:40:36,Cashify,info@cashify.in,Software Developer,sent
+2026-06-21 04:41:23,TrainingMug,info@trainingmug.com,Python Backend Engineer (Django),sent
+2026-06-21 04:42:11,Plexmato,careers@plexmato.com,Python Developer (Fresher),sent
+2026-06-21 04:42:59,Bugs & Errors Studio,careers@bugsanderrors.com,Junior Full Stack Developer,sent
+2026-06-21 04:43:46,Kravix,careers@kravix.com,Backend Developer,sent
+2026-06-21 04:44:34,AlphaDot Technologies,hr@alphadottech.com,AI/LLM Development Intern,sent
+2026-06-21 04:45:21,Heizen,hiring@heizen.work,Associate Software Engineer,sent
+2026-06-21 04:46:09,Codevian Technologies,hr@codevian.com,Python Developer,sent
+2026-06-21 04:46:56,SaffireTech,careers@saffiretech.com,Junior Front End Developer,sent
+2026-06-21 04:47:44,BiCSoM Technologies,careers@bicsom.com,Web Developer (Fresher),sent
+2026-06-21 04:48:33,The Glove,hiring@theglove.com,Frontend Developer,sent
+2026-06-21 04:49:22,LifeOS,careers@lifeos.in,Full Stack Developer (Fresher),sent
+2026-06-21 04:50:10,Bytewink,careers@bytewink.com,Full Stack Development Intern,sent
+2026-06-21 04:50:59,Ryogen,careers@ryogen.dev,Full Stack Development Intern,sent
+2026-06-21 04:51:46,BridgeFix Technology,careers@bridgefix.com,Software Developer (Fresher),sent
+2026-06-21 04:52:35,CIS (Cyber Infrastructure),careers@cisin.com,Python/Django Developer (Fresher),sent
+2026-06-21 04:53:22,Panoramic Infotech,careers@panoramicinfotech.com,Python Developer (Fresher),sent
+2026-06-21 04:54:10,StartupCoE,apply@startupcoe.com,Python Developer (Fresher),sent
+2026-06-21 04:54:57,Milliman,careers@milliman.com,Trainee Software Engineer (Frontend),sent
+2026-06-21 04:55:45,Cyntexa,careers@cyntexa.com,Associate Software Developer,sent
+2026-06-21 04:56:33,Beroe Inc,careers@beroeinc.com,Full-Stack AI Engineer (Fresher),sent
+2026-06-21 04:57:21,E2logy Software Solutions,careers@e2logy.com,Python Developer (Fresher),sent
+2026-06-21 04:58:08,YASH Technologies,careers@yash.com,Trainee - Python,sent
+2026-06-21 04:58:56,Birlasoft,careers@birlasoft.com,Application Developer (Python),sent
+2026-06-21 04:59:43,Tata Elxsi,careers@tataelxsi.com,Python Developer (Fresher),sent
+2026-06-21 13:14:05,QEdge Technologies,narendar@qedgetech.com,Python + Angular JS Developer (Fresher),sent
+2026-06-21 13:14:53,Spekond Technologies,reach@spekond.com,AI/ML Engineer (Fresher),sent
+2026-06-21 13:15:41,DSHINE PRO SOLUTIONS,dshinepro3@gmail.com,IT Fresher (Python/Java/FullStack),sent
+2026-06-21 13:16:29,Techquadra Software Solutions,hr@techquadra.com,Python Developer Intern,sent
+2026-06-21 13:17:17,EduChunks.com,hr@educhunks.com,Engineering Intern (Full Stack),sent
+2026-06-21 13:18:04,TensorGo Technologies,info@tensorgo.com,Full Stack Intern (React/Python/Django),sent
+2026-06-21 13:18:52,Avyayhh,harshayudalal@gmail.com,Founding Engineer / AI & Software Developer,sent
+2026-06-22 20:11:25,Quicket Solutions,syadav@quicketsolutions.com,Python Developer (Fresher),sent
+2026-06-22 20:12:14,iTechnolabs,deepa@itechnolabs.ca,React Native Developer (Fresher),sent
+2026-06-22 20:13:01,Invezza Technologies,isha.pathak@invezzatechnologies.com,Python Fresher (Flask/Django),sent
+2026-06-22 20:13:49,MNC Group,jitender.hr.coordinator@gmail.com,Multiple Positions (Fresher),sent
+2026-06-22 20:14:36,Innomax Solutions,careers@innomaxsol.com,AI Developer Trainee,sent
+2026-06-22 20:15:24,LintCloud,hr@lintcloud.com,Python Developer (Django) - Fresher,sent
+2026-06-22 20:16:11,Quadrant Technologies,vijay.reddy@quadranttechnologies.com,AI Engineer (Fresher),sent
+2026-06-24 15:47:10,ARIN Corporation,sreeja.kundu@arin.bz,AI/ML & Full-Stack Engineer (Fresher),sent
+2026-06-24 15:47:58,Zenskar,nitya@zenskar.com,Implementation Engineer (Fresher),sent
+2026-06-24 15:48:46,GoSuper Edtech,hr@gosuperedtech.com,Junior Full Stack Developer (Fresher),sent
+2026-06-24 15:49:34,Metaworkers.AI,jagadish@voicy.ai,Founding Engineer (Full Stack/AI),sent
+2026-06-24 15:50:22,EZHRM,careers@ezhrm.in,Full Stack Developer,sent
+2026-06-24 16:19:11,Infosys,careers@inf.com,Software Engineer,sent
+2026-06-24 16:19:59,Infosys,bangalore.hrd@inf.com,Software Engineer,sent
+2026-06-24 16:21:01,Infosys,careers@inf.com,Software Engineer,sent
+2026-06-24 16:21:09,Infosys,bangalore.hrd@inf.com,Software Engineer,sent
+2026-06-24 16:21:16,Infosys,amruta.deshpande1610@gmail.com,Python Developer,sent
+2026-06-24 16:21:24,Wipro,careers@wipro.com,Software Developer,sent
+2026-06-24 16:21:31,TCS,recruitment@blore.tcs.co.in,Systems Engineer,sent
+2026-06-24 16:21:39,IBM,osudar@in.ibm.com,Software Developer,sent
+2026-06-24 16:21:46,IBM,mamol@in.ibm.com,Software Developer,sent
+2026-06-24 16:21:54,Accenture,akash.shivnarayan@accenture.com,Software Engineer,sent
+2026-06-24 16:22:02,Accenture,keerthi.raj@accenture.com,Software Engineer,sent
+2026-06-24 16:22:09,Accenture,aruna.b.reddy@accenture.com,Software Engineer,sent
+2026-06-24 16:22:18,Cognizant,Parthasarathy.K@cognizant.com,Software Developer,sent
+2026-06-24 16:22:25,Capgemini,ramya.narayana@capgemini.com,Campus Recruiting,sent
+2026-06-24 16:22:33,Capgemini,harsh.doshi@capgemini.com,Software Engineer,sent
+2026-06-24 16:22:40,Mphasis,Vidyaranya.K@mphasis.com,Software Engineer,sent
+2026-06-24 16:22:48,Intel,npwhrindia@intel.com,Software Engineer,sent
+2026-06-24 16:22:56,Oracle,naveen.vemula@oracle.com,Software Developer,sent
+2026-06-24 16:23:03,Oracle,suman.rajeev@oracle.com,Software Developer,sent
+2026-06-24 16:23:11,HP,resumes@india.hp.com,Software Engineer,sent
+2026-06-24 16:23:19,Sony,dreamjob@sisc.in.sony.com.sg,Software Developer,sent
+2026-06-24 16:23:26,HCL Tech,rsriram@hclt.com,Software Engineer,sent
+2026-06-24 16:23:35,HCL Tech,resumeblr@hclt.com,Software Engineer,sent
+2026-06-24 16:23:42,HCL Tech,careerb@msdc.hcltech.com,Software Engineer,sent
+2026-06-24 16:23:50,Siemens,hmsrecruit@sisl.co.in,Software Developer,sent
+2026-06-24 16:23:57,Novell,career@novell.com,Software Developer,sent
+2026-06-24 16:24:05,Sun Microsystems,careers@india.sun.com,Software Developer,sent
+2026-06-24 16:24:17,Satyam,globaltalent@bet.satyam.com,Software Developer,sent
+2026-06-24 16:24:24,Philips,pscareers2000@philips.com,Software Engineer,sent
+2026-06-24 16:24:32,Cisco,india_jobs@cisco.com,Network Engineer,sent
+2026-06-24 16:24:39,Veritas,bangalore@vxindia.veritas.com,Software Engineer,sent
+2026-06-24 16:24:47,Aspect Dev,jobs@india.aspectdv.com,Software Developer,sent
+2026-06-24 16:24:55,Adobe,rohitku@adobe.com,Software Developer,sent
+2026-06-24 16:25:02,Amazon,ramchan@amazon.com,Software Engineer,sent
+2026-06-24 16:25:10,Amazon,kirthiks@amazon.com,Software Engineer,sent
+2026-06-24 16:25:18,Amazon,indujar@amazon.com,Software Engineer,sent
+2026-06-24 16:25:26,Amazon,deepama@amazon.com,Software Engineer,sent
+2026-06-24 16:25:34,Amazon,anisingh@amazon.com,Software Engineer,sent
+2026-06-24 16:25:42,Amazon,vivekmo@amazon.com,Software Engineer,sent
+2026-06-24 16:25:49,Amazon,suprita@amazon.com,Software Engineer,sent
+2026-06-24 16:25:57,Amazon,jainpooj@amazon.com,Software Engineer,sent
+2026-06-24 16:26:05,Amazon,prashanth@amazon.in,Software Engineer,sent
+2026-06-24 16:26:12,Flipkart,abhinavsingh.k@flipkart.com,Software Developer,sent
+2026-06-24 16:26:20,Flipkart,anjali.verma@flipkart.com,Software Developer,sent
+2026-06-24 16:26:28,Microsoft,raana@microsoft.com,Software Engineer,sent
+2026-06-24 16:26:35,Honeywell,Naveen.narasappa@honeywell.com,Software Engineer,sent
+2026-06-24 16:26:43,GE India,itl.geitc@geind.ge.com,Software Developer,sent
+2026-06-24 16:26:51,Bosch,fixed-term.akanksha.sahay@in.bosch.com,Software Developer,sent
+2026-06-24 16:26:59,SAP,labs.india@sap.com,Software Developer,sent
+2026-06-24 16:27:06,Tech Mahindra,rajagopalan.ks@techmahindra.com,Campus Recruiting,sent
+2026-06-24 16:27:14,Tech Mahindra,spirani@techmahindra.com,Software Developer,sent
+2026-06-24 16:27:21,Goldman Sachs,gs.campus@goldmansachs.com,Software Engineer,sent
+2026-06-24 16:27:35,VMware,careers-india@vmware.com,Software Engineer,sent
+2026-06-24 16:27:42,Qualcomm,shijog@qti.qualcomm.com,Software Engineer,sent
+2026-06-24 16:27:50,Qualcomm,kamal.panwar@qualcomm.com,Software Engineer,sent
+2026-06-24 16:27:58,Qualcomm,aayush.sharma@qualcomm.com,Software Engineer,sent
+2026-06-24 16:28:05,Texas Instruments,hr-india@ti.com,Software Engineer,sent
+2026-06-24 16:28:13,Dell Technologies,hr@dell.com,Software Engineer,sent
+2026-06-24 16:28:21,NetApp,careers-india@netapp.com,Software Engineer,sent
+2026-06-24 16:28:29,LTIMindtree,careers@ltimindtree.com,Software Engineer,sent
+2026-06-24 16:28:36,Persistent Systems,campus@persistent.com,Software Developer,sent
+2026-06-24 16:28:44,L&T Technology Services,hr@ltts.com,Software Engineer,sent
+2026-06-24 16:28:51,Tata Elxsi,shobhads@tataelxsi.co.in,Software Engineer,sent
+2026-06-24 16:28:59,Sonata Software,hrd@sonata-software.com,Software Developer,sent
+2026-06-24 16:29:06,Sonata Software,career@sonata-software.com,Software Developer,sent
+2026-06-24 16:29:14,Sasken Technologies,hr@sasken.com,Software Engineer,sent
+2026-06-24 16:29:21,ThoughtWorks,recruitment@thoughtworks.com,Software Developer,sent
+2026-06-24 16:29:30,Zepto,priyanka.deshmukh@zeptonow.com,Software Engineer,sent
+2026-06-24 16:29:38,PhonePe,shivani.sahraot@phonepe.com,Software Engineer,sent
+2026-06-24 16:29:46,PhonePe,naved.nadeem@phonepe.com,Software Engineer,sent
+2026-06-24 16:29:53,PhonePe,chinmay.kulkarni@phonepe.com,Software Engineer,sent
+2026-06-24 16:30:01,PhonePe,gowthami.bs@phonepe.com,Software Engineer,sent
+2026-06-24 16:30:10,Meesho,careers@meesho.com,Software Engineer,sent
+2026-06-24 16:30:18,Groww,future@groww.in,Software Engineer,sent
+2026-06-24 16:30:26,Paytm,hr@paytm.com,Software Developer,sent
+2026-06-24 16:30:33,Ola,careers@olacabs.com,Software Engineer,sent
+2026-06-24 16:30:42,Uber,srinivas.teja@uber.com,Software Engineer,sent
+2026-06-24 16:30:55,Myntra,careers@myntra.com,Software Engineer,sent
+2026-06-24 16:31:03,Hotstar,chaitrashree.hegde.con@hotstar.com,Software Engineer,sent
+2026-06-24 16:31:10,Practo,tateam@practo.com,Software Engineer,sent
+2026-06-24 16:31:19,Physics Wallah,prakriti.goel@pw.live,Software Engineer,sent
+2026-06-24 16:31:26,Zepto,hr@zeptonow.com,Full Stack Developer,sent
+2026-06-24 16:31:34,Gameberry Labs,debasmita@gameberrylabs.com,Game Developer,sent
+2026-06-24 16:31:43,Juspay,miskin.shravani@juspay.in,Software Engineer,sent
+2026-06-24 16:31:52,Zoho,recruitment@zohocorp.com,Software Developer,sent
+2026-06-24 16:31:59,Cars24,swapnil.mishra@cars24.com,Software Engineer,sent
+2026-06-24 16:32:07,Cars24,gursharan.kaur@cars24.com,Software Engineer,sent
+2026-06-24 16:32:15,Cars24,Mahima.jain@cars24.com,Software Engineer,sent
+2026-06-24 16:32:23,Oyo,shubhi.verma@oyorooms.com,Software Engineer,sent
+2026-06-24 16:32:31,Talkcharge,careers@talkcharge.com,Software Developer,sent
+2026-06-24 16:32:39,BankBazaar,careers@bankbazaar.com,Software Engineer,sent
+2026-06-24 16:32:47,Facilio,hiring@facilio.com,Software Engineer,sent
+2026-06-24 16:32:55,Unstop,careers@unstop.com,Software Developer,sent
+2026-06-24 16:33:02,Astrotalk,hiring@astrotalk.com,Software Engineer,sent
+2026-06-24 16:33:10,D E Shaw,recruit-india@deshaw.com,Software Developer,sent
+2026-06-24 16:33:19,Amazon,aritran@amazon.com,Software Engineer,sent
+2026-06-24 16:33:26,Amazon,edivya@amazon.com,Software Engineer,sent
+2026-06-24 16:33:35,Amazon,samtac@amazon.com,Software Engineer,sent
+2026-06-24 16:33:43,Google,careers-hyderabad@google.com,Software Engineer,sent
+2026-06-24 16:33:50,Microsoft,careers-hyderabad@microsoft.com,Software Engineer,sent
+2026-06-24 16:33:58,Qualcomm,samrat.talwar@qualcomm.com,Software Engineer,sent
+2026-06-24 16:34:05,Qualcomm,tahseena@qualcomm.com,Software Engineer,sent
+2026-06-24 16:34:17,Qualcomm,avinash.bajpai@qualcomm.com,Software Engineer,sent
+2026-06-24 16:34:26,DXC Technology,virupaksha.goud@applabs.com,Software Developer,sent
+2026-06-24 16:34:34,DXC Technology,rpadakanti2@csc.com,Software Developer,sent
+2026-06-24 16:34:42,CGI,subhabrata.das@cgi.com,Software Developer,sent
+2026-06-24 16:34:50,Cybage,saiv@cybage.com,Software Developer,sent
+2026-06-24 16:34:58,Cybage,pgarde@cybage.com,Software Developer,sent
+2026-06-24 16:35:06,Unisys,raja.ponnuru@unisys.com,Software Engineer,sent
+2026-06-24 16:35:14,Tanla,accounts@tanla.com,Software Developer,sent
+2026-06-24 16:35:21,Genpact,vamshi.shakapally@genpact.com,Campus Hiring,sent
+2026-06-24 16:35:30,Genpact,venkat.r@genpact.com,Campus Hiring,sent
+2026-06-24 16:35:38,Zensar,r.katte@zensar.com,Software Developer,sent
+2026-06-24 16:35:47,Zensar,r.mundhra@zensar.com,Software Developer,sent
+2026-06-24 16:35:55,TIBCO,vcha@tibco.com,Software Engineer,sent
+2026-06-24 16:36:03,LiquidHub,smajeti@liquidhub.com,Software Developer,sent
+2026-06-24 16:36:11,Hitachi Solutions,hr@hitachi-solutions.com,Software Engineer,sent
+2026-06-24 16:36:19,ValueMomentum,careers@valuemomentum.com,Software Developer,sent
+2026-06-24 16:36:26,HGS,careers@teamhgs.com,Software Developer,sent
+2026-06-24 16:36:34,Cyient,Aijas.Mohammed@cyient.com,Software Engineer,sent
+2026-06-24 16:36:42,MAQ Software,aanchalm@maqsoftware.com,Software Engineer,sent
+2026-06-24 16:36:50,Inrhythm,umamahesh.tatipati@inrhythm-inc.com,Software Developer,sent
+2026-06-24 16:36:58,ZenQ,azam.ali@zenq.com,Software Developer,sent
+2026-06-24 16:37:06,Mold Tek,rajeev@moldteckindia.com,Software Developer,sent
+2026-06-24 16:37:14,Incessant Tech,sridhars@incessanttechnologies.com,Campus Recruiting,sent
+2026-06-24 16:37:22,Epic Research,hr@epicresearch.in,Software Developer,sent
+2026-06-24 16:37:29,Qedbaton,shreya.adlakha@qedbaton.com,Software Engineer,sent
+2026-06-24 16:37:43,Excers,lohitha.tirunagari@excers.com,HR Manager,sent
+2026-06-24 16:37:51,Intone Networks,sujith.y@intonenetworks.in,HR,sent
+2026-06-24 16:37:59,Pratian Technologies,abhi@pratian.com,Software Developer,sent
+2026-06-24 16:38:07,Alliance Global,pkatkuri@allianceglobalservices.com,Software Developer,sent
+2026-06-24 16:38:15,Uxreactor,rmuppala@uxreactor.com,HR Manager,sent
+2026-06-24 16:38:23,Tek Systems,rjena@teksystems.com,Campus Hiring,sent
+2026-06-24 16:38:30,Prolifics,ratnaji_bolli@semanticspa.com,Software Developer,sent
+2026-06-24 16:38:38,NGAHR,natraj.jagarlapudi@ngahr.com,Software Developer,sent
+2026-06-24 16:38:46,IT Convergence,accounts-hyd@itconvergence.com,Software Developer,sent
+2026-06-24 16:38:54,Ntranga,info@ntranga.com,Software Developer,sent
+2026-06-24 16:39:01,Prolifics,ramarao_bolli@semanticspa.com,Software Developer,sent
+2026-06-24 16:39:09,Rockwell Collins,rprasad@rockwellcollins.com,Software Engineer,sent
+2026-06-24 16:39:17,Value Labs,campushires@valuelabs.net,Software Developer,sent
+2026-06-24 16:39:25,Karmasoft,skova@karmasoftech.com,Talent Acquisition,sent
+2026-06-24 16:39:33,TCS,peyyeti.kartheek@tcs.com,Systems Engineer,sent
+2026-06-24 16:39:40,Accenture,Sowmya.prakash@accenture.com,Software Engineer,sent
+2026-06-24 16:39:48,Capgemini,parul.dubey@capgemini.com,Software Engineer,sent
+2026-06-24 16:39:56,Capgemini,asif.mohammad@capgemini.com,Software Engineer,sent
+2026-06-24 16:40:04,Capgemini,reshma.dhumal@capgemini.com,Software Engineer,sent
+2026-06-24 16:40:12,GE Energy,kalpana.t@ge.com,Talent Acquisition,sent
+2026-06-24 16:40:19,Datamatics,careers@datamatics.com,Software Developer,sent
+2026-06-24 16:40:27,NTT Data,careers@nttdata.com,Software Engineer,sent
+2026-06-24 16:40:35,Brillio,careers@brillio.com,Software Engineer,sent
+2026-06-24 16:40:42,ModMed India,hr@modmed.com,Software Engineer,sent
+2026-06-24 16:40:50,Verisk,careers@verisk.com,Software Engineer,sent
+2026-06-24 16:41:03,Covalense Global,hr@covalense.com,Software Developer,sent
+2026-06-24 16:41:11,VIHU,careers@vihu.com,Software Developer,sent
+2026-06-24 16:41:19,Tiger Analytics,careers@tigeranalytics.com,Data Engineer,sent
+2026-06-24 16:41:27,Gramener,careers@gramener.com,Data Scientist,sent
+2026-06-24 16:41:35,TCS,resume@chennai.tcs.com,Systems Engineer,sent
+2026-06-24 16:41:43,TCS,recruitment@chennai.tcs.co.in,Systems Engineer,sent
+2026-06-24 16:41:50,Accenture,india.campus@accenture.com,Software Engineer,sent
+2026-06-24 16:41:58,PayPal,indiacareers@paypal.com,Software Engineer,sent
+2026-06-24 16:42:06,PayPal,r.chandrasi1996@gmail.com,Software Engineer,sent
+2026-06-24 16:42:13,Verizon,careers@verizon.com,Software Engineer,sent
+2026-06-24 16:42:21,Standard Chartered,careers@sc.com,Software Developer,sent
+2026-06-24 16:42:29,Barclays,careers@barclays.com,Software Developer,sent
+2026-06-24 16:42:37,Ford Motor,fordit@ford.com,Software Engineer,sent
+2026-06-24 16:42:44,Renault Nissan,careers@renault-nissan.com,Software Engineer,sent
+2026-06-24 16:42:52,Aspire Systems,fefs@aspiresys.com,Software Developer,sent
+2026-06-24 16:43:00,Ramco Systems,careers@ramco.com,Software Developer,sent
+2026-06-24 16:43:07,Sify Technologies,careers@sify.com,Software Developer,sent
+2026-06-24 16:43:15,Intellect Design Arena,careers@intellectdesign.com,Software Developer,sent
+2026-06-24 16:43:23,Kissflow,careers@kissflow.com,Software Engineer,sent
+2026-06-24 16:43:31,Indium Software,careers@indiumsoftware.com,Software Developer,sent
+2026-06-24 16:43:39,Contus Tech,careers@contus.com,Software Developer,sent
+2026-06-24 16:43:46,Vembu Technologies,careers@vembu.com,Software Developer,sent
+2026-06-24 16:43:55,Prodapt Solutions,careers@prodapt.com,Software Engineer,sent
+2026-06-24 16:44:03,Maveric Systems,careers@maveric-systems.com,Software Developer,sent
+2026-06-24 16:44:11,Orangescape,careers@orangescape.com,Software Developer,sent
+2026-06-24 16:44:22,HappyFox,careers@happyfox.com,Software Engineer,sent
+2026-06-24 16:44:30,Unmetric,careers@unmetric.com,Software Engineer,sent
+2026-06-24 16:44:38,Gofrugal Technologies,careers@gofrugal.com,Software Developer,sent
+2026-06-24 16:44:45,Soliton Technologies,careers@solitontech.com,Software Engineer,sent
+2026-06-24 16:44:53,Kovai.co,careers@kovai.co,Software Developer,sent
+2026-06-24 16:45:01,DSQ,recruit_ecom@md.in.dsqsoft.com,Software Developer,sent
+2026-06-24 16:45:08,MelStar,bstp@melstar.com,Software Developer,sent
+2026-06-24 16:45:16,IIC Technologies,hr@iictechnologies.com,Software Developer,sent
+2026-06-24 16:45:24,3i Infotech,careers@3i-infotech.com,Software Developer,sent
+2026-06-24 16:45:32,Polaris Consulting,hr@polaris.com,Software Developer,sent
+2026-06-24 16:45:39,VIT Chennai,chennai.hr@vit.ac.in,Software Developer,sent
+2026-06-24 16:45:47,CSS Corp,mathangi.sathyaramanan@csscorp.com,Software Developer,sent
+2026-06-24 16:45:55,CSS Corp,satish.santhanam@csscorp.com,Software Developer,sent
+2026-06-24 16:46:03,Dhyanithi Technologies,proscilla@dhyanit.com,Software Developer,sent
+2026-06-24 16:46:11,Sutherland Global,chandrasekhar.g@sutherlandglobal.com,Manager,sent
+2026-06-24 16:46:19,Scope International,careers@scopeinternational.com,Software Developer,sent
+2026-06-24 16:46:26,Athenahealth,careers@athenahealth.com,Software Engineer,sent
+2026-06-24 16:46:35,Movate,careers@movate.com,Software Developer,sent
+2026-06-24 16:46:43,TCS,recruitment@tcs.com,Systems Engineer,sent
+2026-06-24 16:46:51,Zoho,hr@zohocorp.com,Software Developer,sent
+2026-06-24 16:46:59,Freshworks,hiring@freshworks.com,Software Engineer,sent
+2026-06-24 16:47:07,Volt Money,ankita.singh@voltmoney.in,Software Engineer,sent
+2026-06-24 16:47:16,Volt Money,careers@voltmoney.in,Software Engineer,sent
+2026-06-24 16:47:24,Grizmolabs,ritika.pokhriyal@grizmolabs.com,SDE,sent
+2026-06-24 16:47:32,Demand Farm,saakshi.haribhat@demandfarm.com,SDE,sent
+2026-06-24 16:47:46,Rentickle,hr@rentickle.com,SDE,sent
+2026-06-24 16:47:54,Bright Money,mahalaxmi.desai@brightmoney.co,SDE,sent
+2026-06-24 16:48:02,DataZip,piyushsingariya@datazip.io,SDE,sent
+2026-06-24 16:48:10,DataZip,manik@datazip.io,SDE,sent
+2026-06-24 16:48:18,Zluri,mamta.s@zluri.com,SDE,sent
+2026-06-24 16:48:26,Zluri,shivani.c@zluri.com,SDE,sent
+2026-06-24 16:48:34,EatFit,rakshita@eatfit.in,SDE,sent
+2026-06-24 16:48:42,Fixerra,careers@fixerra.in,SDE,sent
+2026-06-24 16:48:51,Blance,pankaj@blance.in,SDE,sent
+2026-06-24 16:48:59,Textrai,founders@textrai.com,SDE,sent
+2026-06-24 16:49:06,Adbrew,hiring@adbrew.io,SDE,sent
+2026-06-24 16:49:14,Enpass,sanjana.roy@enpass.io,SDE,sent
+2026-06-24 16:49:22,Control F5,hr@controlf5.in,SDE,sent
+2026-06-24 16:49:30,Humantic AI,talent@humantic.ai,SDE,sent
+2026-06-24 16:49:38,Metastart,talent@metastart.in,SDE,sent
+2026-06-24 16:49:46,Zyod,aman.jha@zyod.com,SDE,sent
+2026-06-24 16:50:00,Sangeetha S,HR,https://linkedin.com/posts/sangeetha-s,failed
+2026-06-24 16:50:08,Media.net,careers@medianet.com,SDE,sent
+2026-06-24 16:50:15,Udaan,careers@udaan.com,SDE,sent
+2026-06-24 16:50:25,Sutherland Global,careers@sutherlandglobal.com,SDE,sent
+2026-06-24 16:50:34,PwC,careers@pwcinida.com,SDE,sent
+2026-06-24 16:50:42,BCG,careers@bcg.com,SDE,sent
+2026-06-24 16:50:50,IBS Software,arun.philip@ibsplc.com,Software Engineer,sent
+2026-06-24 16:50:58,Techversant,careers@techversant.com,Software Developer,sent
+2026-06-24 16:51:05,Quest Innovative Solutions,careers@questinnovative.com,Software Developer,sent
+2026-06-24 16:51:14,IBS Software,careers@ibsplc.com,Software Engineer,sent
+2026-06-24 16:51:22,Experion Technologies,careers@experionglobal.com,Software Developer,sent
+2026-06-24 16:51:30,Nissan Digital,careers@nissandigital.com,Software Engineer,sent
+2026-06-24 16:51:38,Allianz Technology,careers@allianz.com,Software Engineer,sent
+2026-06-24 16:51:46,EY GDS,careers.gds@ey.com,Software Developer,sent
+2026-06-24 16:51:54,Terumo,careers@terumo.com,Software Engineer,sent
+2026-06-24 16:52:02,TCS,careers@tcs.com,Systems Engineer,sent
+2026-06-24 16:52:10,Litmus7,careers@litmus7.com,Software Engineer,sent
+2026-06-24 16:52:18,Calpine Group,meera.vijayan@calpinetech.com,Software Developer,sent
+2026-06-24 16:52:28,Ipsr Solutions,careers@ipsr.org,Software Developer,sent
+2026-06-24 16:52:36,PIT Solutions,careers@pitsolutions.com,Software Developer,sent
+2026-06-24 16:52:44,Ayruz,careers@ayruz.com,Software Developer,sent
+2026-06-24 16:52:52,CityPilot Labs,careers@citypilot.com,Software Developer,sent
+2026-06-24 16:53:00,SymphonyAI,careers@symphonyai.com,Software Engineer,sent
+2026-06-24 16:53:08,Envestnet,careers@envestnet.com,Software Engineer,sent
+2026-06-24 16:53:16,Oracuz Infotech,careers@oracuz.com,Web Developer,sent
+2026-06-24 16:53:30,Livares Technologies,careers@livares.com,Software Developer,sent
+2026-06-24 16:53:37,Trois Infotech,careers@trois.in,Software Engineer,sent
+2026-06-24 16:53:45,Indocosmo Systems,info@indocosmo.com,Software Developer,sent
+2026-06-24 16:53:54,SBL Infotech,careers@sblinfotech.com,Software Developer,sent
+2026-06-24 16:54:02,TeamIndus,careers@teamindus.com,Software Engineer,sent
+2026-06-24 16:54:11,Sree Sastha Technologies,info@sastech.com,Software Developer,sent
+2026-06-24 16:54:19,SmartGig Technologies,careers@smartgig.com,Software Developer,sent
+2026-06-24 16:54:28,KLN Engineering,careers@kln.com,Software Developer,sent
+2026-06-24 16:54:37,Codewave Technologies,careers@codewave.com,Software Developer,sent
+2026-06-24 16:54:44,TeamProcure,careers@teamprocure.com,Software Developer,sent
+2026-06-24 16:54:53,Glorious Insight,careers@gloriousinsight.com,Software Developer,sent
+2026-06-24 16:55:01,Akkenna Technologies,careers@akkenna.com,Software Developer,sent
+2026-06-24 16:55:09,Surya Software Systems,careers@suryasoft.com,Software Developer,sent
+2026-06-24 16:55:18,Radiant Info Solutions,careers@radiantinfo.com,Software Developer,sent
+2026-06-24 16:55:27,Noviindus Technologies,careers@noviindus.com,Software Engineer,sent
+2026-06-24 16:55:36,Sysboon Technologies,hr@sysboon.com,Software Developer,sent
+2026-06-24 16:55:45,Shaastra Technologies,careers@shaastratech.com,Software Developer,sent
+2026-06-24 16:55:53,Vectra Technosoft,careers@vectratechnosoft.com,Software Developer,sent
+2026-06-24 16:56:00,Pioneer Coders,careers@pioneercoders.com,Software Developer,sent
+2026-06-24 16:56:09,Intellisense Technology,hr@intellisense.in,Software Developer,sent
+2026-06-24 16:56:17,Ziros Healthcare,careers@ziroshealthcare.com,Software Developer,sent
+2026-06-24 16:56:25,Akshara Technologies,careers@aksharatech.com,Software Developer,sent
+2026-06-24 16:56:35,ZF Steering Gear,careers@zf.com,Software Engineer,sent
+2026-06-24 16:56:44,Pricol Technologies,careers@pricol.com,Software Developer,sent
+2026-06-24 16:56:53,Lakshmi Machine,careers@lmm.co.in,Software Engineer,sent
+2026-06-24 16:57:07,Elgi Equipments,careers@elgi.com,Software Engineer,sent
+2026-06-24 16:57:16,Roots Industries,careers@rootsindustries.com,Software Developer,sent
+2026-06-24 16:57:25,Shanti Gears,careers@shantigears.com,Software Engineer,sent
+2026-06-24 16:57:43,Sakthi Auto,careers@sakthiauto.com,Software Engineer,sent
+2026-06-24 16:57:53,Excelsoft Technologies,careers@excelsoft.com,Software Developer,sent
+2026-06-24 16:58:02,Dexter Capital,careers@dexcap.com,Software Developer,sent
+2026-06-24 16:58:10,Nagarro,careers@nagarro.com,Software Engineer,sent
+2026-06-24 16:58:19,ThoughtFocus,careers@thoughtfocus.com,Software Developer,sent
+2026-06-24 16:58:27,Kalos IT,careers@kalosit.com,Software Developer,sent
+2026-06-24 16:58:35,Apex IT Solutions,careers@apexitsolutions.com,Software Developer,sent
+2026-06-24 16:58:43,Infomaze Technologies,careers@infomaze.in,Software Developer,sent
+2026-06-24 16:58:51,Eduzire Technologies,careers@eduzire.com,Software Developer,sent
+2026-06-24 16:58:58,Technotask Business,careers@technotask.com,Software Developer,sent
+2026-06-24 16:59:06,Appsquadz Technologies,careers@appsaquadz.com,Software Developer,sent
+2026-06-24 16:59:14,Aditi Technologies,careers@aditi.com,Software Developer,sent
+2026-06-24 16:59:22,Talentpace Technologies,careers@talentpace.com,Software Developer,sent
+2026-06-24 16:59:31,Codelattice Technologies,careers@codelattice.com,Software Developer,sent
+2026-06-24 16:59:39,Uniworks Designs,careers@uniworks.com,Software Developer,sent
+2026-06-24 16:59:47,Infologic Solutions,careers@infologic.com,Software Developer,sent
+2026-06-24 16:59:54,Gauge Data Solutions,careers@gaugedata.com,Software Developer,sent
+2026-06-24 17:00:02,Shiash Info Solutions,careers@shiash.com,Software Developer,sent
+2026-06-24 17:00:11,L&T Infotech,careers@lntinfotech.com,Software Engineer,sent
+2026-06-24 17:00:19,Brigade Group,careers@brigade.com,Software Developer,sent
+2026-06-24 17:00:27,Athena Technologies,careers@athenatech.com,Software Developer,sent
+2026-06-24 17:00:36,Sasken Technologies,careers@sasken.com,Software Engineer,sent
+2026-06-24 17:00:49,L&T Technology Services,careers@ltts.com,Software Engineer,sent
+2026-06-24 17:00:57,Capgemini,careers@capgemini.com,Software Engineer,sent
+2026-06-24 17:01:07,Thomson Reuters,careers@thomsonreuters.com,Software Engineer,sent
+2026-06-24 17:01:16,Jupiter International,careers@jupiter.in,Software Developer,sent
+2026-06-24 17:01:25,Fincare Small Finance Bank,careers@fincarebank.com,Software Developer,sent
+2026-06-24 17:01:36,Manipal Technologies,careers@manipaltechnologies.com,Software Developer,sent
+2026-06-24 17:01:46,Allsec Technologies,careers@allsec.com,Software Developer,sent
+2026-06-24 17:01:56,Novigo Solutions,careers@novigo.com,Software Developer,sent
+2026-06-24 17:02:05,Purohit Navigation,careers@purohitnavigation.com,Software Developer,sent
+2026-06-24 17:02:13,Osys Technologies,careers@osys.in,Software Developer,sent
+2026-06-24 17:02:23,Alead Tech,careers@aleadtech.com,Software Developer,sent
+2026-06-24 17:02:31,ConnectBroadband,careers@connectbroadband.com,Software Developer,sent
+2026-06-24 17:02:39,Pragathi Solutions,careers@pragathi.com,Software Developer,sent
+2026-06-24 17:02:48,Nasscom,careers@nasscom.in,Programmer,sent
+2026-06-24 17:02:55,Teleradiology Solutions,careers@teleradiology.com,Software Engineer,sent
+2026-06-24 17:03:03,Strand Life Sciences,careers@strandls.com,Software Engineer,sent
+2026-06-24 17:03:12,Canara Bank,careers@canarabank.com,Software Engineer,sent
+2026-06-24 17:03:20,Corporation Bank,careers@corporationbank.com,Software Engineer,sent
+2026-06-24 17:03:29,Karuna Group,careers@karunagroup.com,Software Developer,sent
+2026-06-24 17:03:38,Lavender Tech,careers@lavendertech.com,Software Developer,sent
+2026-06-24 17:03:46,Indianool,careers@indianool.com,Software Developer,sent
+2026-06-24 17:03:54,Telerad Tech,careers@teleradtech.com,Software Developer,sent
+2026-06-24 17:04:03,AlignTec,careers@aligntec.com,Software Developer,sent
+2026-06-24 17:04:11,MediWeb,careers@mediweb.com,Software Developer,sent
+2026-06-24 17:04:20,Conduent,careers@conduent.com,Software Developer,sent
+2026-06-24 17:04:34,Kellton Tech,careers@kelltontech.com,Software Developer,sent
+2026-06-24 17:04:44,Praniti Tech,careers@pranititech.com,Software Developer,sent
+2026-06-24 17:04:52,Sanket Solutions,careers@sanketsolutions.com,Software Developer,sent
+2026-06-24 17:05:01,Innovators Tech,careers@innovatorstech.com,Software Developer,sent
+2026-06-24 17:05:10,Cigniti Technologies,careers@cigniti.com,Software Engineer,sent
+2026-06-24 17:05:18,GVK EMRI,careers@gvkemri.com,Software Developer,sent
+2026-06-24 17:05:26,Bharat Electronics,careers@bel.co.in,Software Engineer,sent
+2026-06-24 17:05:34,Hindustan Shipyard,careers@hsl.co.in,Software Engineer,sent
+2026-06-24 17:05:43,RINL,careers@rinl.co.in,Software Engineer,sent
+2026-06-24 17:05:51,Adani Tech,careers@adanitech.com,Software Developer,sent
+2026-06-24 17:05:59,NTPC,careers@ntpc.co.in,Software Engineer,sent
+2026-06-24 17:06:07,AppLabs,careers@applabs.com,Software Developer,sent
+2026-06-24 17:06:16,NCS Pearson,careers@pearson.com,Software Developer,sent
+2026-06-24 17:06:24,Laurus Labs,careers@lauruslabs.com,Software Engineer,sent
+2026-06-24 17:06:32,Gland Pharma,careers@glandpharma.com,Software Engineer,sent
+2026-06-24 17:06:40,Granules India,careers@granulesindia.com,Software Engineer,sent
+2026-06-24 17:06:48,Rain Industries,careers@rainindustries.com,Software Engineer,sent
+2026-06-24 17:06:57,Barco Electronics,careers@barco.com,Software Engineer,sent
+2026-06-24 17:07:05,Vizag Tech Solutions,careers@vizagtech.com,Software Developer,sent
+2026-06-24 17:07:14,Slice,careers@slice.in,Software Engineer,sent
+2026-06-24 17:07:23,ClearTax,careers@cleartax.in,Software Engineer,sent
+2026-06-24 17:07:31,Dunzo,careers@dunzo.com,Software Engineer,sent
+2026-06-24 17:07:41,Rapido,careers@rapido.in,Software Engineer,sent
+2026-06-24 17:07:49,DailyHunt,careers@dailyhunt.in,Software Engineer,sent
+2026-06-24 17:07:57,InMobi,careers@inmobi.com,Software Engineer,sent
+2026-06-24 17:08:11,BrowserStack,careers@browserstack.com,Software Engineer,sent
+2026-06-24 17:08:19,Hasura,careers@hasura.io,Software Engineer,sent
+2026-06-24 17:08:28,Byju's,careers@byjus.com,Software Engineer,sent
+2026-06-24 17:08:36,UpGrad,careers@upgrad.com,Software Engineer,sent
+2026-06-24 17:08:45,Curefit,careers@cure.fit,Software Engineer,sent
+2026-06-24 17:08:53,Medlife,careers@medlife.com,Software Engineer,sent
+2026-06-24 17:09:02,PharmEasy,careers@pharmeasy.in,Software Engineer,sent
+2026-06-24 17:09:11,Cultfit,careers@cult.fit,Software Engineer,sent
+2026-06-24 17:09:20,Milkbasket,careers@milkbasket.com,Software Engineer,sent
+2026-06-24 17:09:32,BigBasket,careers@bigbasket.com,Software Engineer,sent
+2026-06-24 17:09:42,Wakefit,careers@wakefit.com,Software Engineer,sent
+2026-06-24 17:09:50,Bounce,careers@bounce.in,Software Engineer,sent
+2026-06-24 17:09:58,Treebo,careers@treebo.com,Software Engineer,sent
+2026-06-24 17:10:06,Ixigo,careers@ixigo.com,Software Engineer,sent
+2026-06-24 17:10:15,Rupeek,careers@rupeek.com,Software Engineer,sent
+2026-06-24 17:10:23,Jupiter,careers@jupiter.money,Software Engineer,sent
+2026-06-24 17:10:31,Niyo,careers@niyo.co,Software Engineer,sent
+2026-06-24 17:10:39,Khatabook,careers@khatabook.com,Software Engineer,sent
+2026-06-24 17:10:47,OkCredit,careers@okcredit.com,Software Engineer,sent
+2026-06-24 17:10:56,Bizongo,careers@bizongo.com,Software Engineer,sent
+2026-06-24 17:11:03,Moglix,careers@moglix.com,Software Engineer,sent
+2026-06-24 17:11:12,InfraMarket,careers@inframarket.com,Software Engineer,sent
+2026-06-24 17:11:20,Zetwerk,careers@zetwerk.com,Software Engineer,sent
+2026-06-24 17:11:28,Whatfix,careers@whatfix.com,Software Engineer,sent
+2026-06-24 17:11:37,Yellow.ai,careers@yellow.ai,Software Engineer,sent
+2026-06-24 17:11:50,Uniphore,careers@uniphore.com,Software Engineer,sent
+2026-06-24 17:11:59,MadStreetDen,careers@madstreetden.com,Software Engineer,sent
+2026-06-24 17:12:07,Calendly,hiring@calendly.com,Software Engineer,sent
+2026-06-24 17:12:15,Exotel,careers@exotel.com,Software Engineer,sent
+2026-06-24 17:12:23,Knowlarity,careers@knowlarity.com,Software Engineer,sent
+2026-06-24 17:12:33,Capillary Technologies,careers@capillarytech.com,Software Engineer,sent
+2026-06-24 17:12:41,WebEngage,careers@webengage.com,Software Engineer,sent
+2026-06-24 17:12:50,MoEngage,careers@moengage.com,Software Engineer,sent
+2026-06-24 17:12:58,Netradyne,careers@netradyne.com,Software Engineer,sent
+2026-06-24 17:13:07,Mistral Solutions,careers@mistralsolutions.com,Software Engineer,sent
+2026-06-24 17:13:15,Tata Technologies,careers@tatatechnologies.com,Software Engineer,sent
+2026-06-24 17:13:23,Aricent,careers@aricent.com,Software Engineer,sent
+2026-06-24 17:13:31,Accenture Innovation,accenture.careers@accenture.com,Innovation Engineer,sent
+2026-06-24 17:13:39,Pega Systems,careers@pega.com,Software Engineer,sent
+2026-06-24 17:13:48,Coupa Software,careers@coupa.com,Software Engineer,sent
+2026-06-24 17:13:56,Fiserv,careers@fiserv.com,Software Engineer,sent
+2026-06-24 17:14:04,JPMorgan Chase,careers@jpmchase.com,Software Engineer,sent
+2026-06-24 17:14:12,HSBC,careers@hsbc.com,Software Engineer,sent
+2026-06-24 17:14:20,McKinsey Digital,careers@mckinsey.com,Software Engineer,sent
+2026-06-24 17:14:28,Mu Sigma,careers@mu-sigma.com,Decision Scientist,sent
+2026-06-24 17:14:37,Fractal Analytics,careers@fractal.ai,Data Scientist,sent
+2026-06-24 17:14:45,Tredence Analytics,careers@tredence.com,Data Engineer,sent
+2026-06-24 17:14:53,LatentView Analytics,careers@latentview.com,Data Scientist,sent
+2026-06-24 17:15:01,Course5 Intelligence,careers@course5.com,Data Scientist,sent
+2026-06-24 17:15:09,Absolutdata,careers@absolutdata.com,Data Scientist,sent
+2026-06-24 17:15:24,Egen Solutions,careers@egen.solutions,Software Engineer,sent
+2026-06-24 17:15:32,Gupshup,careers@gupshup.com,Software Engineer,sent
+2026-06-24 17:15:40,Sinch India,careers@sinch.com,Software Engineer,sent
+2026-06-24 17:15:48,Karix,careers@karix.com,Software Engineer,sent
+2026-06-24 17:15:56,Netcore Cloud,careers@netcorecloud.com,Software Engineer,sent
+2026-06-24 17:16:05,Pubmatic,careers@pubmatic.com,Software Engineer,sent
+2026-06-24 17:16:13,Times Internet,careers@timesinternet.in,Software Engineer,sent
+2026-06-24 17:16:21,Jio Platforms,careers@jio.com,Software Engineer,sent
+2026-06-24 17:16:29,Airtel Digital,careers@airtel.com,Software Engineer,sent
+2026-06-24 17:16:37,Vodafone Idea,careers@vodafoneidea.com,Software Engineer,sent
+2026-06-24 17:16:46,Tata Communications,careers@tatacommunications.com,Software Engineer,sent
+2026-06-24 17:16:55,Lumen Technologies,careers@lumen.com,Software Engineer,sent
+2026-06-24 17:17:03,Juniper Networks,careers@juniper.net,Software Engineer,sent
+2026-06-24 17:17:11,Arista Networks,careers@arista.com,Software Engineer,sent
+2026-06-24 17:17:20,Extreme Networks,careers@extremenetworks.com,Software Engineer,sent
+2026-06-24 17:17:28,F5 Networks,careers@f5.com,Software Engineer,sent
+2026-06-24 17:17:37,NTT Global,careers@ntt.com,Software Engineer,sent
+2026-06-24 17:17:45,Atos Syntel,careers@atos-syntel.net,Software Engineer,sent
+2026-06-24 17:17:53,Mastek,careers@mastek.com,Software Engineer,sent
+2026-06-24 17:18:02,NIIT Technologies,careers@niit-tech.com,Software Engineer,sent
+2026-06-24 17:18:10,Pratian Technologies,careers@pratian.com,Software Engineer,sent
+2026-06-24 17:18:18,iGATE,careers@igate.com,Software Engineer,sent
+2026-06-24 17:18:26,Nelito Systems,careers@nelito.com,Software Developer,sent
+2026-06-24 17:18:34,Newgen Software,careers@newgen.com,Software Developer,sent
+2026-06-24 17:18:42,Temenos India,careers@temenos.com,Software Engineer,sent
+2026-06-24 17:18:55,Finastra,careers@finastra.com,Software Engineer,sent
+2026-06-24 17:19:03,Intellect Design Arena,careers@i-cube.com,Software Engineer,sent
+2026-06-24 17:19:11,Nucleus Software,careers@nucleussoftware.com,Software Developer,sent
+2026-06-24 17:19:18,Majesco,careers@majesco.com,Software Engineer,sent
+2026-06-24 17:19:26,Sapiens,careers@sapiens.com,Software Engineer,sent
+2026-06-24 17:19:34,Damco Solutions,careers@damcosolutions.com,Software Developer,sent
+2026-06-24 17:19:42,Persistent Systems,persistent.careers@persistent.com,Software Engineer,sent
+2026-06-24 17:19:50,KPIT Technologies,kpit.careers@kpit.com,Software Engineer,sent
+2026-06-24 17:19:58,Mindtree,mindtree.careers@mindtree.com,Software Engineer,sent
+2026-06-24 17:20:06,LTIMindtree,careers.ltimindtree@ltimindtree.com,Software Engineer,sent
+2026-06-24 17:20:15,Birlasoft,birlasoft.careers@birlasoft.com,Software Engineer,sent
+2026-06-24 17:20:25,Cyient,cyient.careers@cyient.com,Software Engineer,sent
+2026-06-24 17:20:33,Quinnox,careers@quinnox.com,Software Engineer,sent
+2026-06-24 17:20:41,Nitor Infotech,careers@nitorinfotech.com,Software Developer,sent
+2026-06-24 17:20:49,Clarivate,careers@clarivate.com,Software Engineer,sent
+2026-06-24 17:20:58,Wiley India,careers@wiley.com,Software Developer,sent
+2026-06-24 17:21:07,Springer Nature,careers@springernature.com,Software Developer,sent
+2026-06-24 17:21:15,RELX India,careers@relx.com,Software Engineer,sent
+2026-06-24 17:21:24,Wolters Kluwer,careers@wolterskluwer.com,Software Engineer,sent
+2026-06-24 17:21:33,Informatica,careers@informatica.com,Software Engineer,sent
+2026-06-24 17:21:41,Talend,careers@talend.com,Software Engineer,sent
+2026-06-24 17:21:50,Confluent,careers@confluent.io,Software Engineer,sent
+2026-06-24 17:21:58,Redis Labs,careers@redis.com,Software Engineer,sent
+2026-06-24 17:22:05,DataStax,careers@datastax.com,Software Engineer,sent
+2026-06-24 17:22:13,New Relic,careers@newrelic.com,Software Engineer,sent
+2026-06-24 17:22:28,Dynatrace,careers@dynatrace.com,Software Engineer,sent
+2026-06-24 17:22:36,AppDynamics,careers@appdynamics.com,Software Engineer,sent
+2026-06-24 17:22:44,Sumo Logic,careers@sumologic.com,Software Engineer,sent
+2026-06-24 17:22:52,LogDNA,careers@logdna.com,Software Engineer,sent
+2026-06-24 17:23:01,Site24x7,careers@site24x7.com,Software Engineer,sent
+2026-06-24 17:23:10,Zoho Corp,careers@zohocorp.com,Software Developer,sent
+2026-06-24 17:23:19,ManageEngine,careers@manageengine.com,Software Engineer,sent
+2026-06-24 17:23:31,QnA,careers@qna.com,Software Developer,sent
+2026-06-24 17:23:40,iManage,careers@imanage.com,Software Engineer,sent
+2026-06-24 17:23:48,Veeva Systems,careers@veeva.com,Software Engineer,sent
+2026-06-24 17:23:57,Yodlee,careers@yodlee.com,Software Engineer,sent
+2026-06-24 17:24:05,Broadridge,careers@broadridge.com,Software Engineer,sent
+2026-06-24 17:24:13,SS&C Technologies,careers@ssctech.com,Software Engineer,sent
+2026-06-24 17:24:21,Fiserv India,careers.fiserv@fiserv.com,Software Engineer,sent
+2026-06-24 17:24:29,ACI Worldwide,careers@aciworldwide.com,Software Developer,sent
+2026-06-24 17:24:37,FSS,careers@fss.co.in,Software Engineer,sent
+2026-06-24 17:24:46,Euronet,careers@euronet.com,Software Developer,sent
+2026-06-24 17:24:54,SBI,careers@sbi.co.in,Software Developer,sent
+2026-06-24 17:25:01,HDFC Bank,careers@hdfcbank.com,Software Developer,sent
+2026-06-24 17:25:09,ICICI Bank,careers@icicibank.com,Software Developer,sent
+2026-06-24 17:25:18,Axis Bank,careers@axisbank.com,Software Developer,sent
+2026-06-24 17:25:25,Kotak Mahindra,careers@kotak.com,Software Developer,sent
+2026-06-24 17:25:33,Yes Bank,careers@yesbank.in,Software Developer,sent
+2026-06-24 17:25:41,RBL Bank,careers@rblbank.com,Software Developer,sent
+2026-06-24 17:25:48,Federal Bank,careers@federalbank.co.in,Software Developer,sent
+2026-06-24 17:26:04,Karnataka Bank,careers@karnatakabank.com,Software Developer,sent
+2026-06-24 17:26:14,South Indian Bank,careers@southindianbank.com,Software Developer,sent
+2026-06-24 17:26:21,Syndicate Bank,careers@syndicatebank.co.in,Software Developer,sent
+2026-06-24 17:26:29,L&T Finance,careers@ltfs.com,Software Developer,sent
+2026-06-24 17:26:37,Bajaj Finserv,careers@bajajfinserv.in,Software Developer,sent
+2026-06-24 17:26:46,Tata Capital,careers@tatacapital.com,Software Developer,sent
+2026-06-24 17:26:53,Aditya Birla Capital,careers@adityabirlacapital.com,Software Developer,sent
+2026-06-24 17:27:01,Piramal Finance,careers@piramalfinance.com,Software Developer,sent
+2026-06-24 17:27:09,Muthoot Finance,careers@muthoot.com,Software Developer,sent
+2026-06-24 17:27:19,Manappuram Finance,careers@manappuram.com,Software Developer,sent
+2026-06-24 17:27:27,Reliance Capital,careers@reliancecapital.com,Software Developer,sent
+2026-06-24 17:27:36,AMD,careers@amd.com,Software Engineer,sent
+2026-06-24 17:27:44,ARM India,careers@arm.com,Software Engineer,sent
+2026-06-24 17:27:53,Micron Technology,careers@micron.com,Software Engineer,sent
+2026-06-24 17:28:00,Western Digital,careers@wdc.com,Software Engineer,sent
+2026-06-24 17:28:18,Seagate,careers@seagate.com,Software Engineer,sent
+2026-06-24 17:28:26,Applied Materials,careers@appliedmaterials.com,Software Engineer,sent
+2026-06-24 17:28:33,Lam Research,careers@lamresearch.com,Software Engineer,sent
+2026-06-24 17:28:42,ASML India,careers@asml.com,Software Engineer,sent
+2026-06-24 17:28:49,Synopsys India,careers@synopsys.com,Software Engineer,sent
+2026-06-24 17:28:57,Cadence Design,careers@cadence.com,Software Engineer,sent
+2026-06-24 17:29:05,Mentor Graphics,careers@mentor.com,Software Engineer,sent
+2026-06-24 17:29:13,Xilinx India,careers@xilinx.com,Software Engineer,sent
+2026-06-24 17:29:20,Altera India,careers@altera.com,Software Engineer,sent
+2026-06-24 17:29:28,MathWorks India,careers@mathworks.com,Software Engineer,sent
+2026-06-24 17:29:40,Ansys India,careers@ansys.com,Software Engineer,sent
+2026-06-24 17:29:48,Dassault Systemes,careers@3ds.com,Software Engineer,sent
+2026-06-24 17:29:55,PTC India,careers@ptc.com,Software Engineer,sent
+2026-06-24 17:30:03,Autodesk India,careers@autodesk.com,Software Engineer,sent
+2026-06-24 17:30:12,Schneider Electric,careers@schneider-electric.com,Software Engineer,sent
+2026-06-24 17:30:23,Emerson,careers@emerson.com,Software Engineer,sent
+2026-06-24 17:30:31,Honeywell India,honeywell.careers@honeywell.com,Software Engineer,sent
+2026-06-24 17:30:39,General Electric,ge.careers@ge.com,Software Engineer,sent
+2026-06-24 17:30:47,Eaton India,careers@eaton.com,Software Engineer,sent
+2026-06-24 17:30:54,Cummins India,careers@cummins.com,Software Engineer,sent
+2026-06-24 17:31:02,Bosch India,bosch.careers@bosch.com,Software Engineer,sent
+2026-06-24 17:31:10,Aptiv India,careers@aptiv.com,Software Engineer,sent
+2026-06-24 17:31:18,Valeo India,careers@valeo.com,Software Engineer,sent
+2026-06-24 17:31:26,Magna India,careers@magna.com,Software Engineer,sent
+2026-06-24 17:31:34,Tata Motors,careers@tatamotors.com,Software Engineer,sent
+2026-06-24 17:31:44,Mahindra & Mahindra,careers@mahindra.com,Software Engineer,sent
+2026-06-24 17:31:53,Ashok Leyland,careers@ashokleyland.com,Software Engineer,sent
+2026-06-24 17:32:02,Toyota India,careers@toyota.co.in,Software Engineer,sent
+2026-06-24 17:32:10,Hyundai India,careers@hyundai.com,Software Engineer,sent
+2026-06-24 17:32:18,Honda India,careers@honda.co.in,Software Engineer,sent
+2026-06-24 17:32:26,Sundaram Clayton,careers@sundaramclayton.com,Software Engineer,sent
+2026-06-24 17:32:34,TVS Motors,careers@tvsmotor.com,Software Engineer,sent
+2026-06-24 17:32:42,Ather Energy,careers@atherenergy.com,Software Engineer,sent
+2026-06-24 17:32:50,Ola Electric,careers@olaelectric.com,Software Engineer,sent
+2026-06-24 17:32:59,Simple Energy,careers@simpleenergy.in,Software Engineer,sent
+2026-06-24 17:33:13,Bounce Electric,careers@bounceelectric.com,Software Engineer,sent
+2026-06-24 17:33:21,Amara Raja,careers@amararaja.com,Software Engineer,sent
+2026-06-24 17:33:29,Exide Industries,careers@exide.com,Software Engineer,sent
+2026-06-24 17:33:37,Tata Chemicals,careers@tatachemicals.com,Software Engineer,sent
+2026-06-24 17:33:44,United Breweries,careers@unitedbreweries.com,Software Engineer,sent
+2026-06-24 17:33:53,ITC Infotech,careers@itcinfotech.com,Software Engineer,sent
+2026-06-24 17:34:01,Tata Consultancy Services,tcs.careers@tcs.com,System Engineer,sent
+2026-06-24 17:34:11,Infosys,infosys.careers@infosys.com,System Engineer,sent
+2026-06-24 17:34:19,Wipro,wipro.careers@wipro.com,Software Engineer,sent
+2026-06-24 17:34:26,HCL Tech,hcl.careers@hcltech.com,Software Engineer,sent
+2026-06-24 17:34:37,Tech Mahindra,techm.careers@techmahindra.com,Software Engineer,sent
+2026-06-24 17:34:50,Mphasis,mphasis.careers@mphasis.com,Software Engineer,sent
+2026-06-24 17:34:58,Cognizant,cognizant.careers@cognizant.com,Software Engineer,sent
+2026-06-24 17:35:05,Capgemini,capgemini.careers@capgemini.com,Software Engineer,sent
+2026-06-24 17:35:14,Deloitte India,deloitte.careers@deloitte.com,Software Engineer,sent
+2026-06-24 17:35:28,KPMG India,kpmg.careers@kpmg.com,Software Engineer,sent
+2026-06-24 17:35:36,PwC India,pwc.careers@pwc.com,Software Engineer,sent
+2026-06-24 17:35:43,EY India,ey.careers@ey.com,Software Engineer,sent
+2026-06-24 17:35:51,Zycus,careers@zycus.com,Software Engineer,sent
+2026-06-24 17:36:00,Icertis,careers@icertis.com,Software Engineer,sent
+2026-06-24 17:36:08,Gainsight,careers@gainsight.com,Software Engineer,sent
+2026-06-24 17:36:17,MindTickle,careers@mindtickle.com,Software Engineer,sent
+2026-06-24 17:36:25,HighRadius,careers@highradius.com,Software Engineer,sent
+2026-06-24 17:36:34,Druva,careers@druva.com,Software Engineer,sent
+2026-06-24 17:36:43,TAB Capital,careers@tabcapital.com,Software Engineer,sent
+2026-06-24 17:36:57,Karbon Card,careers@karboncard.com,Software Engineer,sent
+2026-06-24 17:37:11,M2P Fintech,careers@m2pfintech.com,Software Engineer,failed
+2026-06-24 17:37:23,Setu API,careers@setu.co,Software Engineer,failed
+2026-06-24 17:37:34,Decentro,careers@decentro.co,Software Engineer,failed
+2026-06-24 17:37:45,Niyo Solutions,careers@niyog.com,Software Engineer,failed
+2026-06-24 17:37:55,Epifi,careers@epifi.com,Software Engineer,failed
+2026-06-24 17:38:06,Freo,careers@freo.in,Software Engineer,failed
+2026-06-24 17:38:16,KreditBee,careers@kreditbee.in,Software Engineer,failed
+2026-06-24 17:38:26,MoneyView,careers@moneyview.in,Software Engineer,failed
+2026-06-24 17:38:36,LoanTap,careers@loantap.in,Software Engineer,failed
+2026-06-24 17:38:46,Faircent,careers@faircent.com,Software Engineer,failed
+2026-06-24 17:38:57,LenDenClub,careers@lendenclub.com,Software Engineer,failed
+2026-06-24 17:39:07,RevFin,careers@revfin.in,Software Engineer,failed
+2026-06-24 17:39:20,ZestMoney,careers@zestmoney.com,Software Engineer,failed
+2026-06-24 17:39:31,LazyPay,careers@lazypay.in,Software Engineer,failed
+2026-06-24 17:39:42,Simpl,careers@simpl.in,Software Engineer,failed
+2026-06-24 17:39:52,MobiKwik,careers@mobikwik.com,Software Engineer,failed
+2026-06-24 17:40:02,Freecharge,careers@freecharge.com,Software Engineer,failed
+2026-06-24 17:40:13,Paytm,paytm.careers@paytm.com,Software Engineer,failed
+2026-06-24 17:40:24,Google India,google.careers@google.com,Software Engineer,failed
+2026-06-24 17:40:34,Microsoft India,microsoft.careers@microsoft.com,Software Engineer,failed
+2026-06-24 17:40:44,Amazon India,amazon.careers@amazon.com,Software Engineer,failed
+2026-06-24 17:40:55,Netflix India,careers@netflix.com,Software Engineer,failed
+2026-06-24 17:41:05,Twitter India,careers@twitter.com,Software Engineer,failed
+2026-06-24 17:41:16,Uber India,uber.careers@uber.com,Software Engineer,failed
+2026-06-24 17:41:26,Airbnb India,careers@airbnb.com,Software Engineer,failed
+2026-06-24 17:41:38,Booking.com,careers@booking.com,Software Engineer,failed
+2026-06-24 17:41:49,Expedia India,careers@expedia.com,Software Engineer,failed
+2026-06-24 17:42:00,ClearTrip,careers@cleartrip.com,Software Engineer,failed
+2026-06-24 17:42:11,Yatra Online,careers@yatra.com,Software Engineer,failed
+2026-06-24 17:42:21,Flipkart,flipkart.careers@flipkart.com,Software Engineer,failed
+2026-06-24 17:42:31,Amazon,amazon.india@amazon.com,Software Engineer,failed
+2026-06-24 17:42:42,Myntra,myntra.careers@myntra.com,Software Engineer,failed
+2026-06-24 17:44:46,M2P Fintech,careers@m2pfintech.com,Software Engineer,failed
+2026-07-28 22:16:19,AdaniConneX,reena.v@adani.com,Head HR - Data Center,sent
+2026-07-28 22:19:44,AdaniConneX,reena.v@adani.com,Head HR - Data Center,sent
+2026-07-28 22:19:53,Affle,puja@affle.com,Associate Director Human Resources,sent
+2026-07-28 22:20:01,Airmeet,meena@airmeet.com,Senior Director Human Resources,sent
+2026-07-28 22:20:10,AntWorks,hanish.tiwari@ant.works,AVP-HR,sent
+2026-07-28 22:20:18,Arcserve,karuna.geddam@arcserve.com,Director HR at Arcserve,sent
+2026-07-28 22:20:27,Aspiring Minds,hemlata.goel@shl.com,Head HR-India at SHL( Former Gartner),sent
+2026-07-28 22:20:35,Atlan,dharmik@atlan.com,Director - Talent Acquisition,sent
+2026-07-28 22:30:20,AdaniConneX,reena.v@adani.com,Head HR - Data Center,sent
+2026-07-28 22:30:58,AdaniConneX,reena.v@adani.com,Head HR - Data Center,sent
+2026-07-28 22:31:07,Affle,puja@affle.com,Associate Director Human Resources,sent
+2026-07-28 22:31:16,Airmeet,meena@airmeet.com,Senior Director Human Resources,sent
+2026-07-28 22:31:25,AntWorks,hanish.tiwari@ant.works,AVP-HR,sent
+2026-07-28 22:32:27,AdaniConneX,reena.v@adani.com,Head HR - Data Center,sent
+2026-07-28 22:32:43,Affle,puja@affle.com,Associate Director Human Resources,sent
+2026-07-28 22:32:55,Airmeet,meena@airmeet.com,Senior Director Human Resources,sent
+2026-07-28 22:35:26,AdaniConneX,reena.v@adani.com,Head HR - Data Center,sent
+2026-07-28 22:35:34,Affle,puja@affle.com,Associate Director Human Resources,sent
+2026-07-28 22:35:43,Airmeet,meena@airmeet.com,Senior Director Human Resources,sent
+2026-07-28 22:35:51,AntWorks,hanish.tiwari@ant.works,AVP-HR,sent
+2026-07-28 22:36:00,Arcserve,karuna.geddam@arcserve.com,Director HR at Arcserve,sent
+2026-07-28 22:36:08,Aspiring Minds,hemlata.goel@shl.com,Head HR-India at SHL( Former Gartner),sent
+2026-07-28 22:36:16,Atlan,dharmik@atlan.com,Director - Talent Acquisition,sent
+2026-07-28 22:36:25,Atlas,harshk@elementsgs.com,Director Global Payroll,sent
+2026-07-28 22:36:33,Awign,payable@awign.com,HR Head,sent
+2026-07-28 22:36:41,Baazi Games,pratik.m@baazigames.com,Chief People Officer,sent
+2026-07-28 22:36:50,BenQ India,neha.kohli@benq.com,Associate Director Human Resources,sent
+2026-07-28 22:36:58,BetterPlace,arushi.goel@betterplace.co.in,Director HRBP,sent
+2026-07-28 22:37:06,BetterPlace,debojit.das@betterplace.co.in,Associate Director - Staffing,sent
+2026-07-28 22:37:14,BetterPlace,maanoj@betterplace.co.in,Group Head HR,sent
+2026-07-28 22:37:23,Bidgely,pradeep@bidgely.com,"Director, Human Resources",sent
+2026-07-28 22:37:31,Blancco Technology Group,jaslieen.baghh@blancco.com,Director HR and Operations,sent
+2026-07-28 22:37:40,Cleo,asidhwani@cleo.com,Head HR,sent
+2026-07-28 22:37:49,CleverTap,heena@clevertap.com,Director HR,sent
+2026-07-28 22:37:58,CleverTap,prashant.parashar@clevertap.com,Chief Human Resources Officer,sent
+2026-07-28 22:38:06,CloudSEK,joshua.henry@cloudsek.com,Associate Vice President - Talent Acquisition,sent
+2026-07-28 22:38:16,CloudSEK,ramya.ramachandran@cloudsek.com,Associate Vice President - Talent Acquisition,sent
+2026-07-28 22:38:25,Clumio,logesh@clumio.com,Head of Talent Acquisition,sent
+2026-07-28 22:38:33,Colruyt India,akram.mohammad@colruytgroup.com,Deputy Head Head HR,sent
+2026-07-28 22:38:42,CommerceIQ,jyoti.g@commerceiq.ai,Director - HR,sent
+2026-07-28 22:38:50,CommerceIQ,tanvi.s@commerceiq.ai,Principal - India Recruiting Head,sent
+2026-07-28 22:39:01,Conviva,dlewis@conviva.com,HR Director,sent
+2026-07-28 22:39:09,CoreStack,anil.k@corestack.io,Human Resources Director,sent
+2026-07-28 22:39:18,Crayon Data,naveen@crayondata.com,Vice President - Human Resources,sent
+2026-07-28 22:39:26,Crayon Data,sujee@crayondata.com,Head of Talent Acquisition,sent
+2026-07-28 22:39:34,CropIn Technology,manasi.kelkar@cropin.com,VP - Human Resources,sent
+2026-07-28 22:39:42,CropIn Technology,vinay.kn@cropin.com,Head of Talent Acquisition,sent
+2026-07-28 22:39:51,CustomerXPs,jay@customerxps.com,Director - Head of HR,sent
+2026-07-28 22:40:14,Daloopa,govind.bhandari@daloopa.com,Head of Human Resources & Talent Acquisition,sent
+2026-07-28 22:40:23,Dassault Systems,anindita.ranjan@3ds.com,Director HR,sent
+2026-07-28 22:40:32,Dassault Systems,pradeep_r@3dplmsoftware.com,Head of HR (India),sent
+2026-07-28 22:40:41,Dassault Systems,shirish.bavdekar@3ds.com,Head of Talent Acquisition (India),sent
+2026-07-28 22:40:50,Delphix,angel.mathew@delphix.com,Human Resources Director,sent
+2026-07-28 22:40:58,DotPe,ritika.malhotra@dotpe.in,Associate Director Human Resources,sent
+2026-07-28 22:41:07,Dremio,rajesh@dremio.com,Director HR - India,sent
+2026-07-28 22:41:18,Dukaan,bhavin@mydukaan.io,Head - Talent Acquisition,sent
+2026-07-28 22:41:27,Eightfold,pk@eightfold.ai,Director - Talent Acquisition,sent
+2026-07-28 22:41:37,Envestnet,arindam.kar@yodlee.com,Head-Talent Acquisition,sent
+2026-07-28 22:41:46,Envestnet,ltirounavoucarassou@yodlee.com,Director Operations - Performance,sent
+2026-07-28 22:41:55,Envestnet,madhvi.arora@yodlee.com,Vice President & Head HR,sent
+2026-07-28 22:42:20,Envestnet,pp@yodlee.com,HR Director,sent
+2026-07-28 22:42:35,Envestnet,schinnaiah@yodlee.com,Human Resources Director,sent
+2026-07-28 22:42:46,Esri India,deepa.mukherjee@esri.in,Chief People Officer & Vice President,sent
+2026-07-28 22:42:54,Esri India,mandeep.virdi@esri.in,Head of Human Resources,sent
+2026-07-28 22:43:04,EverQuote,psingh@everquote.com,Associate Director - People Operations,sent
+2026-07-28 22:43:13,Flytxt,anil.kumar@flytxt.com,Head - Global HR,sent
+2026-07-28 22:43:23,Fortanix,poornima.gowda@fortanix.com,Head Of Human Resources,sent
+2026-07-28 22:43:31,Freshersworld.com,jaisy@freshersworld.com,Head- Recruitment Solutions,sent
+2026-07-28 22:43:42,Freshersworld.com,priyanka@freshersworld.com,Head - HR & Operations,sent
+2026-07-28 22:43:50,Gaana,mayank.agarwal@gaana.com,Head - HRBP,sent
+2026-07-28 22:44:01,Gameskraft,nitin.nahata@gameskraft.com,CHRO,sent
+2026-07-28 22:44:10,Glu Mobile,revathy.reddy@glu.com,HR Director People and Workplace,sent
+2026-07-28 22:44:20,GoKwik,chetna@gokwik.co,Chief Human Resources Officer,sent
+2026-07-28 22:44:30,Godrej Infotech,megh@godrej.com,Head - Human Resource Information Systems,sent
+2026-07-28 22:44:39,GreyOrange,divya.b@greyorange.com,Associate Director Global HR Operations,sent
+2026-07-28 22:44:47,GreyOrange,neha.c@greyorange.com,Associate Director-HRBP,sent
+2026-07-28 22:44:56,GreyOrange,ramya.s@greyorange.com,Chief People Officer,sent
+2026-07-28 22:45:04,GreyOrange,ruchira.g@greyorange.com,Vice President -People Operations,sent
+2026-07-28 22:45:13,GreyOrange,vasanthi.n@greyorange.com,Vice President - Talent Acquisition & Operations,sent
+2026-07-28 22:45:22,Haptik,nimesh@haptik.ai,"Director - People, Culture & Talent",sent
+2026-07-28 22:45:31,Hevo Data,rinki.goel@hevodata.com,Director - HR,sent
+2026-07-28 22:45:40,Hevo Data,sasank.pandey@hevodata.com,Associate Director - Talent Acquisition,sent
+2026-07-28 22:45:48,Hitachi Solutions Asia Pacific,fbegum@hitachi-solutions.com,Director - HR,sent
+2026-07-28 22:45:57,Hitachi Solutions Asia Pacific,kramachandran@hitachi-solutions.com,Senior Director Human Resources,sent
+2026-07-28 22:46:06,Hitachi Solutions India,hsingh@hitachi-solutions.com,Vice President Human Resources,sent
+2026-07-28 22:46:15,Hiver,karthikeyan@hiverhq.com,Head of Talent Acquisition,sent
+2026-07-28 22:46:23,Hiver,sunetra@hiverhq.com,Head Of Human Resources,sent
+2026-07-28 22:46:31,Hubilo,anand@hubilo.com,Head of Talent Acquisition,sent
+2026-07-28 22:46:40,Hubilo,shobana@hubilo.com,Chief People Officer,sent
+2026-07-28 22:46:49,Increff,anand.e@increff.com,Chief Human Resources Officer,sent
+2026-07-28 22:46:58,Increff,ravisankar.velidi@increff.com,Chief Culture Officer & VP Engineering,sent
+2026-07-28 22:47:08,Indusface,nandini.tandon@indusface.com,Chief People Officer,sent
+2026-07-28 22:47:16,JSoft Solutions,gopalakrishna.gubbi@jsw.in,Head HR & Facilities,sent
+2026-07-28 22:47:27,JSoft Solutions,sridhar.barige@jsw.in,Head HR,sent
+2026-07-28 22:47:37,JetSynthesys,niharika.patel@jetsynthesys.com,CHRO,sent
+2026-07-28 22:47:45,JobsForHer,priyadarshini.torke@jobsforher.com,AVP - HRBP,sent
+2026-07-28 22:47:54,Junglee Games,kushagra.pande@jungleegames.com,Director Talent Acquisition,sent
+2026-07-28 22:48:03,Junglee Games,priya@jungleegames.com,Head Employee Experience & Talent Acquisition,sent
+2026-07-28 22:48:13,Keka HR,jayati.p@keka.com,Head of Human Resources,sent
+2026-07-28 22:48:22,Keka HR,srinidhi.d@keka.com,Head Of Human Resources,sent
